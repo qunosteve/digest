@@ -2,6 +2,8 @@
 
 After Phase 4 is completed and the builders of the Amphitheatre have established an efficient development process for integrating custom gear, the Amphitheatre will open its doors to collaborations with other Cardano NFT projects/collections. These collaborations will be called "Expeditions". Expeditions will be an event that rewards the winner (Explorer class ape) with a mythical item .&#x20;
 
+Update 6/26/2023 - We have been in discussions with fellow community members and there might be different ways to earn Mythical gear from expeditions in the future via more interative means. More to come.
+
 ### Amphitheatre Expedition objectives
 
 1. **Provide unique Amphitheatre utility for Explorers**\
@@ -25,8 +27,10 @@ Also, to help prevent market manipulation, after a variety of different projects
 
 This Expedition overview contains more detail than the following references, but brief mentions on Expeditions and Mythical gear can be found in the [Bounty Structure](sponsorship-structure.md#discovering-legendary-gear) and [Original Proposal.](original-proposal.md#explorers)
 
-We're still early in our planning process. Details on this page concerning Expeditions are subject to change.
+
+
+We're still early in the ideation phase. Details on this page concerning Expeditions are subject to change.
 
 
 
-\
+
