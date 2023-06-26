@@ -25,6 +25,3 @@ This Expedition overview contains more detail than the following references, but
 
 We're still early in the ideation phase. Details on this page concerning Expeditions are subject to change.
 
-
-
-
