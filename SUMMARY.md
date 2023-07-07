@@ -19,7 +19,7 @@
               * [King White's Statement](the-ape-society-digest/apes/craftsmen/families/white/notable-apes/radcliff-white/king-whites-statement.md)
             * [Beltrán White](the-ape-society-digest/apes/craftsmen/families/white/notable-apes/beltran-white.md)
         * [Smith](the-ape-society-digest/apes/craftsmen/families/smith/README.md)
-          * [Smith Family Lore](the-ape-society-digest/apes/craftsmen/families/smith/smith-family-lore.md)
+          * [Smith Family Museum](the-ape-society-digest/apes/craftsmen/families/smith/smith-family-lore.md)
           * [Smith Family Perks](the-ape-society-digest/apes/craftsmen/families/smith/smith-family-perks/README.md)
             * [The Forge Front](the-ape-society-digest/apes/craftsmen/families/smith/smith-family-perks/the-forge-front.md)
           * [Notable Apes](the-ape-society-digest/apes/craftsmen/families/smith/notable-apes.md)
