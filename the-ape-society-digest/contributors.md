@@ -1,5 +1,5 @@
 ---
-description: List of Digest contributors
+description: List of Ape Society Digest Contributors
 ---
 
 # Contributors
@@ -18,7 +18,7 @@ description: List of Digest contributors
 
 ### Esmond Mars
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 
 

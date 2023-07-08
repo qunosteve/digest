@@ -1,3 +1,0 @@
-# Merchandise
-
-Coming soon ...
