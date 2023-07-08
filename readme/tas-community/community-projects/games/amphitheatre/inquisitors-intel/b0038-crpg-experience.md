@@ -8,17 +8,17 @@ description: >-
 
 * I found the connection to Steam via the website actually pretty straight forward, as it was just a case of logging in to my account (users who don't have steam or not familiar with it may find it a bit more complicated)&#x20;
 * The MOD download was easy. The bit that may confuse people is when you have to select the right mod before playing (see example attached).
-* ![](<../../../../../.gitbook/assets/image (2) (1).png>)
+* ![](<../../../../../../.gitbook/assets/image (2) (1).png>)
 * A few features I found on the website which I think could really improve the UI, as it does feel a bit 'clunky' are
 * Equipping Weapons and Armor - wasn't an obvious thing, you have to click and drag them into the correct placement and as someone who had just started took me a while to figure out, a solution would be a simple equip/unequip button.
 * Characteristic menu - now this area for me was super confusing, as I had no idea what skill points to use where, i didn't even know what the skill points were being used for and which ones would benefit my character. I think a solution to this would be some example builds of each class (melee, two handed, polearm, ranged etc) that users can see as a good guide in where to put their points. or even pre-set default classes/builds to really help newcomers and the UI.
 * Icons - for me the icons when looking at weapons/armor could really do with having a worded icon that physically says one handed or two handed etc, as a new user you're not familiar with all these icons so a mixture of both would be good. I will of course give as much feedback as I can over the next few days, but it didn't take me long to understand, I've been playing on their server for 2 days now and seem to understand a decent amount.
 
 This whole page was confusing to me at first, with no information on how to spend your points:\
-![](<../../../../../.gitbook/assets/image (3).png>)
+![](<../../../../../../.gitbook/assets/image (3).png>)
 
 Inserting an equip button might be useful for newer users. As well as a simple tutorial:\
-![](<../../../../../.gitbook/assets/image (10).png>)\
+![](<../../../../../../.gitbook/assets/image (10).png>)\
 
 
 Thinking about it, it would be great to have a visual bar that goes up when you spend your attribute points, it’s great having numbers but something you can physically watch go up, and you can compare them to default builds. Think that would be a nice touch \
@@ -36,5 +36,5 @@ Unless you wanted to base it on armor you could have your assets level up as you
 
 
 Signed, Bancroft Green\
-![](<../../../../../.gitbook/assets/image (9).png>)
+![](<../../../../../../.gitbook/assets/image (9).png>)
 

@@ -70,7 +70,7 @@ There are 19 gear "slots" that sponsors can sponsor a blueprint for:
 
 Here's a sample visual of the tracker with the 19 slots as of Epoch 387:
 
-![](<../../../../.gitbook/assets/image (8).png>)\
+![](<../../../../../.gitbook/assets/image (8).png>)\
 
 
 ### **Gear Slot Soft and Hard Caps (As of Epoch 387)**

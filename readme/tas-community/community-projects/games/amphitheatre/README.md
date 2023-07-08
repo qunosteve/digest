@@ -1,5 +1,5 @@
 ---
-cover: ../../../../.gitbook/assets/amphitheatre.png
+cover: ../../../../../.gitbook/assets/amphitheatre.png
 coverY: 0
 ---
 
