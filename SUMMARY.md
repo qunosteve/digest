@@ -34,7 +34,7 @@
           * [Notable Apes](readme/tas-community/apes/artists/rich/notable-apes/README.md)
             * [Bradford Rich](readme/tas-community/apes/artists/rich/notable-apes/bradford-rich/README.md)
               * [King Rich's Statement](readme/tas-community/apes/artists/rich/notable-apes/bradford-rich/king-richs-statement.md)
-    * [Cabins, by The Ape Society](readme/tas-community/cabins-by-the-ape-society/README.md)
+    * [Cabins](readme/tas-community/cabins-by-the-ape-society/README.md)
       * [Districts](readme/tas-community/cabins-by-the-ape-society/districts/README.md)
         * [District 1-Heolt-HE](readme/tas-community/cabins-by-the-ape-society/districts/district-1-heolt-he/README.md)
           * [Community Initiatives](readme/tas-community/cabins-by-the-ape-society/districts/district-1-heolt-he/community-initiatives.md)
