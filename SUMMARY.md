@@ -1,6 +1,8 @@
 # Table of contents
 
 * [The Ape Society Digest](README.md)
+  * [TAS DAO](readme/tas-dao.md)
+  * [TAS Community](readme/tas-community.md)
   * [Apes](the-ape-society-digest/apes/README.md)
     * [Craftsmen](the-ape-society-digest/apes/craftsmen/README.md)
       * [Perks and Utility](the-ape-society-digest/apes/craftsmen/perks-and-utility.md)
