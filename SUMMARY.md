@@ -4,6 +4,7 @@
   * [TAS DAO](readme/tas-dao/README.md)
     * [DAO Initiatives](readme/tas-dao/dao-initiatives.md)
     * [Incorporation](readme/tas-dao/incorporation.md)
+    * [DAO Council](readme/tas-dao/dao-council.md)
   * [TAS Community](readme/tas-community/README.md)
     * [Apes](readme/tas-community/apes/README.md)
       * [Craftsmen Families](readme/tas-community/apes/craftsmen/README.md)
