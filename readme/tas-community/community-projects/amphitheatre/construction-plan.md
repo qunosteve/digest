@@ -12,7 +12,7 @@ Webpage querying a Cardano API or db sync node for an ape’s loadout data and d
 
 :white\_check\_mark: [Click here](https://amphitheatre.vercel.app/) to access and try out the Amphitheatre Armoury dApp
 
-## **Phase 2 - In-Game Proof of Concept**&#x20;
+## :white\_check\_mark: **Phase 2 - In-Game Proof of Concept**&#x20;
 
 This is where we will integrate the blockchain query to feed data to a moddable game (this is where we’ll need c#) so we can use the “loadout” in-game. The game in the proposal is “Mount & Blade, Bannerlord”. In this phase we will also test user authentication to dedicated servers where they can only use apes & equipment they own in their wallets. Similar to how wallets link to discord profiles, how to link our Steam accounts to our wallets. These dedicated servers will serve as the arena.&#x20;
 
@@ -26,7 +26,7 @@ With the proof of concepts behind us, we can now commence in heavy modding, cust
 
 ## **Phase 4 - Community Scaling**
 
-Start tying Class utility (as per proposal) to the game. Craftsmen can craft (probably with $SOCIETY at this point), Explorers can breed horses, Artists Can mint Sigils, etc. This is where we might need to start pulling in Plutus script utility for shops and betting. Also tie in the other roles into the Amphitheature such as announcers, administrators, arbiters, staking managers etc as per proposal. This is where community participation starts to scale. Integrate streaming/chatrooms, etc. More plutus contracts to facilitate staking, tournament distributions, collecting admissions, etc. Will explore the feasibility of integrating with oracles such as Charli3 and Chainlink to automate some of the tournament payouts and feed outcomes to class utilities. Will also explore the current Cardano ecosystem to see if there are any avaiable metaverses to build an Amphitheatre plot on.
+Start tying Class utility (as per proposal) to the game. Craftsmen can craft (probably with $SOCIETY at this point), Explorers can breed horses, Artists Can mint Sigils, etc. This is where we might need to start pulling in smart contract utility for automated match payouts, etc. Also tie in the other roles into the Amphitheature such as announcers, administrators, arbiters, staking managers etc as per proposal. This is where community participation starts to scale. Integrate streaming/chatrooms, etc. More plutus contracts to facilitate staking, tournament distributions, collecting admissions, etc. Will explore the feasibility of integrating with oracles such as Charli3 and Chainlink to automate some of the tournament payouts and feed outcomes to class utilities. Will also explore the current Cardano ecosystem to see if there are any avaiable metaverses to build an Amphitheatre plot on.
 
 Phase 2 Update: This is where we will implement the [Sponsor's Blueprints](sponsorship-structure.md)
 

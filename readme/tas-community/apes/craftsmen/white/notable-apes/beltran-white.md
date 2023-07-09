@@ -4,6 +4,6 @@
 
 ## Lore
 
-{% content-ref url="../../../../community-projects/games/amphitheatre/team/stewards/beltran-white/beltran-white-backstory.md" %}
-[beltran-white-backstory.md](../../../../community-projects/games/amphitheatre/team/stewards/beltran-white/beltran-white-backstory.md)
+{% content-ref url="../../../../community-projects/amphitheatre/team/stewards/beltran-white/beltran-white-backstory.md" %}
+[beltran-white-backstory.md](../../../../community-projects/amphitheatre/team/stewards/beltran-white/beltran-white-backstory.md)
 {% endcontent-ref %}

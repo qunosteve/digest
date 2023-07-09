@@ -12,7 +12,7 @@ There is no guarantee this will be developed, but you never know. Maximum 3 Apes
 
 Good Luck, Apes!”
 
-![](../../../../../.gitbook/assets/5)
+![](../../../../.gitbook/assets/5)
 
 ## **Disclaimer**
 
