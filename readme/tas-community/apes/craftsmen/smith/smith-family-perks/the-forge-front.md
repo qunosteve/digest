@@ -4,7 +4,7 @@
 
 PolicyID: f57df1fc0135b21cd83c53875a75c804e53520f664598b67e9f0bc94\
 \
-The Forge Front is a strategic mission initiated by Tye Smith, the King's Regent, in the absence of King Harvey. Its goal is to raise funds from the Smith family to uncover the Amphitheatre gauntlet blueprint, uniting the family and securing their future. The Forge Front has since evolved into a governance body who be responsible for decisions on the Forge Front Treasury as time goes on.\
+The Forge Front is a strategic mission initiated by Tye Smith, the King's Regent, while King Harvey takes leave to explore the frontier. Its goal is to raise funds from the Smith family to fund the Amphitheatre gauntlet blueprint, uniting the family and securing their future. The Forge Front has since evolved into a governance body who be responsible for decisions on the Forge Front Treasury as time goes on.\
 \
 [https://pool.pm/$forgefront](https://pool.pm/$forgefront)
 
