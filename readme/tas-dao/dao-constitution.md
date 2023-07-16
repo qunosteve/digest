@@ -1,11 +1,6 @@
----
-description: >-
-  The Ape council is a subsidiary of The Ape Society DAO that will oversee
-  proposals voting, implementation, and funding. To achieve this, we must
-  address the governance structure and a revamped voting
----
-
 # DAO Constitution
+
+The Ape council is a subsidiary of The Ape Society DAO that will oversee proposals voting, implementation, and funding. To achieve this, we must address the governance structure and a revamped voting structure for proposals:
 
 ## Governance Structure (council, etc)
 
