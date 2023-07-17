@@ -16,42 +16,42 @@ description: List of Council Apes in the DAO
 
 
 
-### Edward de' Medici
+### Council - Edward de' Medici
 
 ![](<../../../.gitbook/assets/image (4).png>)
 
 
 
-### Bonaventure Green
+### Council - Bonaventure Green
 
 ![](<../../../.gitbook/assets/image (13).png>)
 
 
 
-### Bradford Rich
+### Council - Bradford Rich
 
 ![](../../../.gitbook/assets/image.png)
 
 
 
-### Grayson de Balboa
+### Council - Grayson de Balboa
 
 ![](<../../../.gitbook/assets/image (1).png>)
 
 
 
-### Wilfred Thomas
+### Council - Wilfred Thomas
 
 ![](<../../../.gitbook/assets/image (7).png>)
 
 
 
-### Tye Smith
+### Council - Tye Smith
 
 ![](https://cdn.discordapp.com/attachments/1129919124496207962/1129919222563221674/tyesmith.jpg)
 
 
 
-### Carlos King
+### Council - Carlos King
 
 ![](<../../../.gitbook/assets/image (5).png>)
