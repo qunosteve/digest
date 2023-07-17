@@ -6,19 +6,19 @@ description: List of Ape Society Digest Contributors
 
 ### G. de Balboa
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ###
 
 ### Tye Smith
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 
 
 ### Esmond Mars
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 
 

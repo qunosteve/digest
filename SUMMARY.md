@@ -6,7 +6,6 @@
     * [Incorporation](readme/tas-dao/incorporation.md)
     * [DAO Council](readme/tas-dao/dao-council/README.md)
       * [Current Term](readme/tas-dao/dao-council/current-term.md)
-      * [Prior Terms](readme/tas-dao/dao-council/prior-terms.md)
     * [DAO Constitution](readme/tas-dao/dao-constitution.md)
   * [TAS Community](readme/tas-community/README.md)
     * [Apes](readme/tas-community/apes/README.md)

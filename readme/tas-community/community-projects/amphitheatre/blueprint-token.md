@@ -17,10 +17,10 @@ It is a native fungible token on Cardano, so it can be traded/sent/etc with Card
 1. Ape can earn Blueprint Tokens by completing bounties. \
 
 2. Like SOCIETY Token, Blueprint tokens count towards Upgrading "D" Class sponsorships (see below).\
-   ![](<../../../../.gitbook/assets/image (5) (1).png>)\
+   ![](<../../../../.gitbook/assets/image (5) (1) (1).png>)\
 
 3. Blueprint tokens have exclusive privileges over SOCIETY. If an Ape accumulates enough blueprint tokens (10k, 50k, 250, 1m), they can purchase an "E" class blueprint certificate for any blueprint slot that hasn't reached the "Hard Cap" of 5 blueprints per gear slot yet. Below is a screenshot of the current gear slot blueprint counts as of this writing.\
-   ![](<../../../../.gitbook/assets/image (6) (1).png>)\
+   ![](<../../../../.gitbook/assets/image (6) (1) (1).png>)\
 
 4. Blueprint tokens can also be used to to upgrade "E" class sponsorships. This is another exclusive perk for blueprint tokens users. \
 
