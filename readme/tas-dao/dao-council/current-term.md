@@ -54,4 +54,14 @@ description: List of Council Apes in the DAO
 
 ### Council - Carlos King
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (5).png>)\
+
+
+### Reserve- Andres Hill
+
+![](<../../../.gitbook/assets/image (15).png>)\
+
+
+### Reserve- Kipp Cataldi
+
+![](<../../../.gitbook/assets/image (14).png>)
