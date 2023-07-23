@@ -12,6 +12,7 @@ The Forge Front is a strategic mission initiated by Tye Smith, the King's Regent
 [the-forge-front.md](the-forge-front.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../community-projects/amphitheatre/backstories/sponsors-gear-stories/forge-front-flex-gauntlets.md" %}
-[forge-front-flex-gauntlets.md](../../../../community-projects/amphitheatre/backstories/sponsors-gear-stories/forge-front-flex-gauntlets.md)
+{% content-ref url="../../../../community-projects/landmarks/amphitheatre/backstories/sponsors-gear-stories/forge-front-flex-gauntlets.md" %}
+[forge-front-flex-gauntlets.md](../../../../community-projects/landmarks/amphitheatre/backstories/sponsors-gear-stories/forge-front-flex-gauntlets.md)
 {% endcontent-ref %}
+

@@ -1,0 +1,57 @@
+# The Cataldi Destiny
+
+## The Cataldi Destiny and The Great Amphitheatre
+
+As King Ariste Cataldi sat under his favorite tree in the bucolic hills of the Searran Valley, indulging upon reflections of past events, he could not help but wonder if different decisions during the course of his life might have led him down wildly different paths. He pondered this for a while. Satisfied that indeed they would have, he stood up, straightened his crown, and sipped the last of his crystal-clear spring water. In that moment he was content, happy in the knowledge that everything was as it should be, carefully constructed over time through contemplative planning and self-inventory.
+
+The events on his mind concerned his journey, both literally and figuratively - a passage from one place to another and signified for him critical junctures in the beginnings of his kingdom of merchants - so many twists and turns. Truly an archetypal narrative of rage, regret, resolve, and ultimately a story of love, peace, and adventure.
+
+Today Cataldi merchants are unquestionably highly intuitive visionaries. They favor big picture thinking and future possibilities that others often miss. Whether it’s true or not, it has been said they have a sixth sense, a sensitivity and proclivity for the highest forms of self-expression, both in business, culture and just about every other facet of life.
+
+Early on Cataldi apes expanded through friendship, adoption, marriage, and other forms of allegiance. Allies came from all walks of life, no one ever quite the same, yet sharing a certain commonality in their approach to life, in their interests, social connections, and their unrelenting pursuit of the best of all possible worlds.
+
+King Cataldi was proud to see his family draw strength from others. As they gravitated into the fold, he felt encouraged to expand and grow his kingdom. At length he determined to enlist some of the best of his merchants for an expedition; Tanner, Wyndham, Mendo, Amsden, Atherol, Bonaventure, Mateo, Webster, Parry, Kipp, Alex, Sherlock, Rutherford, Wylie, Ramsamy, Floris, Fernanado, Franscisque, Booker, Sandon, and Dalton. A potentially perilous journey that, if successful, would cement the Cataldi legacy for generations to come.
+
+True to form, the planning was extensive. The night before, anxious fervor brimmed with anticipation. The merchant crew, ready to set off, gathered one last time in council to review their mission - to explore, settle, and conquer, if necessary, land which might one day become the place apes call home.
+
+While these merchants nurtured long-term relationships by nature, they were shrewd experts of trade, and excelled in selling and bartering. As a result, a thirst for conquest came easier than many expected. As they journeyed, the days were calm, and many nights passed before they set sight on new lands. Morale was high, but what lay ahead was nothing any of them could have anticipated or prepared for.
+
+Eager as they were to explore new territory, King Cataldi gave instructions for three apes to scout ahead and report back within three days. When the allotted time had elapsed, there had been no return. Wasting no time, the King consulted with others. Together, they agreed to send two more apes in search of the crew. Three more days passed. Same result. No sign of return.
+
+Fear, uncertainty, and doubt threatened like wildfire. The King had to act swiftly. Never intimidated by a challenge, and with his curiosity at a fever pitch, King Cataldi decided to personally join a search party. And so it was that with just a few apes, King Ariste Cataldi, ventured into the unknown. The land seemed deserted. Rolling hills outlined the horizon, tumbling over themselves, and obscuring what lay ahead. Steadfast and determined, they made haste. A day, then a night wore on. Upon arrival at the foothills, the crew set camp. They were spent. Already the trek had exceeded their best approximations for where the others might be found. A hearty meal did them good and before long, all the apes fell into a deep sleep. The next morning when they awoke, they found themselves back at the main Cataldi camp. Wait. What? How?!
+
+Others, in disbelief of the crew’s claim, supposed the worst had befallen the five scouts and that King Cataldi and his advanced team had somehow returned under cover of darkness. Rather than argue, they discussed the previous night’s events, trying to understand how this unexplained phenomenon could have occurred. Had it been a dream? Unable to reach any logical conclusion, the King’s search party set off again on a trek to the foothills. When they arrived, no new answers had been found. They pushed ahead, ascending into the hills, trying to make up for wasted time. Once again depleted from the efforts and emotion of the previous days, King Cataldi and his search party were overcome with fatigue. They made every attempt but could not summit. Deceptively high, each hill turned steeper, their hike eventually transitioning into a full climb. Enfeebled and sapped of all energy, exhaustion finally rendered them prostrate, unable to move. Strapped to their packs, their stop to rest, turned first to slumber, and then to a deep sleep.
+
+When light next appeared, breaching the slits of their eyelids, these spacetime travelers awoke to the morning hustle and bustle, back at Camp Cataldi!
+
+At this point, the befuddled King had to weigh his options – either redirect the mission and abandon the missing crew or find another way over the range to discover what lies beyond. Though unsure how to accomplish it, the choice was simple. The fellowship of his merchant family was without question a cornerstone of The Ape Society. The crew must be found, but how and what would they do differently?
+
+Taking close inventory of what they had experienced, the king and his entire company returned to the advanced camp, discussing as they went the subtle variations in the individual retellings of their journey. For a time, they trekked in silence, meditating on the possibilities.
+
+What if what they saw and experienced thus far was not as it seemed? What if this was all some kind of deceptive illusion? Only as a unit would they be enlightened. Digging deeper, they again re-examined past events, breathing through the discomfort of dissonance, searching for an entry, a key, a clue to the reality beyond the obvious.
+
+Upon arrival at the advanced camp, the entire Cataldi expedition, save the missing crew, focused all their senses on rest. At dusk they found peace, and hoping sleep would recharge them for the morning, they surrendered to whatever the next day might bring.
+
+As the story goes, they awoke as if in a dream, or at least somewhere new and unexpected, a completely different environment surrounded by an audience of strangers. As they took in their surroundings, trying to figure out exactly what this place was, they were in what seemed to be an arena. These weren't just strangers, they were spectators, and the Cataldi\`s were the subjects of their entertainment.
+
+“Welcome to the Amphitheatre! Welcome to the future!” These were the chants from the crowd. The scene was spectacular, breathtakingly grand, like nothing they had ever seen before. The Cataldi\`s were terrified but thrilled. What were they to do? King Cataldi stepped forward and yelled back to the crowd, but the chants continued, getting successively louder and eventually drowning out anything the crew volleyed back. Resigned to this future, they stood resolute for what felt like an eternity, until suddenly, all went silent. At the edge of the arena, a large wooden door opened. They hesitated, but something drew them forward, toward the door and what lay beyond. When the last of the Cataldi\`s crossed through the doorway, the large portal shut.
+
+They found themselves in a large chamber. To their surprise, standing before them was the missing crew! All were relieved and grateful to have found each other, but the missing crew begged for sustenance, explaining they had been stuck in the chamber for many days, unable to escape and with no food or water. Realizing an exit could indeed not be found, panic ensued. Apes scratched their heads, paced, and rolled, beat their chests and flailed their arms. They argued, screamed, and sobbed. Had their greed driven them to this? Is this how they would die?
+
+Days passed, and as the provisions in their packs waned, the apes grew angry and enraged. Again, chaos ensued. As they turned on each other, launching accusations and allegations of fault in every direction, King Ariste Cataldi withdrew.
+
+As the leader and head of his family, he questioned why this would be happening. What could be the meaning? This was not the character of the Cataldi Merchant Family. Never before had he known his kin to act like the bearish, paper handing, talentless traders of the black market. No. This could not be.
+
+At last, he made an appeal to the true nature of his family and to the strength of the relationships they nurtured, and to the oath of their guild. Through this process, they reconciled and resolved all suspicions amongst them.
+
+As they focused on the present, the question was posed, “Why were the spectators chanting ‘Welcome to the future?’” “If this was the future, how would they find their way back to the present?” The question was jarring. Had they so quickly forgotten the key to the arena, to finding the missing crew?
+
+Of course! That was it! To break the dominance of visual illusion, they had to find peace, to focus on all of their senses. That would be the key. And so it was that when they awoke the next morning, they were back at the site of their base camp. The Cataldi\`s were overjoyed! They had not been the conquistadores of new lands, but they had indeed discovered a new legacy, new horizons of thought that would serve them forevermore.
+
+They made haste to return to their homelands. Surely expansion would come but maybe next time they would enlist the help of the de la Cruz, Castillo, Garcia, Cortes, and de Balboa Families.
+
+The Cataldi\`s went on to thrive and flourish within Society. Eventually they successfully ventured into what are now all of the 35 Kingdoms of the City, and beyond, far beyond. King Cataldi continued to abide in his ancestral homelands of Lanurk and the Searran Valley, but his kingdom of merchants chose to live wherever they could maximize commerce. Wherever they lived, they were renowned for their integrity, curiosity, and sense for the future.
+
+And what became of the grand arena? One day the King heard of an architect, an expert visionary in his own right, an ape called Beltran White. He heard of his ambitions to erect an Amphitheatre. This immediately triggered the image of that magnificent, breathtaking arena the Cataldi had seen all those years ago. Was this the reason, the meaning of it all?
+
+King Cataldi wasted no time in contacting Beltran White, and without doubt or hesitation, the Cataldi Family Treasury offered monetary honoured merchant sponsorship toward the erection of the Great Amphitheatre. King Cataldi and others had seen the future. They understood what the importance of this project would be within The Ape Society. For the Cataldi\`s, and maybe for others who have heard this tale, the Amphitheatre is and always will be a symbol of self-actualization and of the future - for today is but the beginning, wealth is but an idea away, and we, my good apes, are all KINGS and QUEENS!

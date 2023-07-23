@@ -1,0 +1,9 @@
+# Prickly Death of Congo Avenue (Mace)
+
+This strange looking mace is probably designed to instill fear on the battlefield. The long shaft of the weapon is varnished oak with three red straight painted lines running down its length. A huge steel ball sits on top of the shaft with three corked spikes of steel menacingly protruding from the ball. The spikes are partly covered with red paint to make it appear to be blood splattered for effect. This weapon is on the heavy side for the one-handed weapons, so somewhat slower than the fastest in the group, but it will deal a ton of damage if connected and will instill fear in other fighters nearby.
+
+The origin of this Mace is not completely known as it was found abandoned in an alley in Congo Avenue, Canmard City. The rumor is that different factions within the Canmard City merchant guild were having disagreements over the distribution rights to Whisky in the city. One of the factions felt it necessary to send a message and had one of the master craftsmen in the city create a most hideous and scary looking weapon to strike fear in the opposing apes. Some witnesses had observed some shady looking apes dragging this menacing mace up and down Congo Avenue an entire day.
+
+Due to the location, Apes have reasoned that this probably was a disagreement between the Amato and Ventucci fractions, as the Amato headquarters are located on Congo Avenue. No one really knows if the mace was ever really used, but it probably had some sort of effect as the Whisky business in Canmard City is booming.
+
+A local Evans craftsman found the mace in the alley, and since no one seemed to own it, he brought it back to his workshop and made the blueprints for the weapon. The name “Prickly death of Congo Avenue” seemed appropriate based on the location it was found

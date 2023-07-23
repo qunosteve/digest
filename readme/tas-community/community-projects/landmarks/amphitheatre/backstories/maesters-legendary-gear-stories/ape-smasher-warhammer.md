@@ -1,0 +1,7 @@
+# Ape Smasher (Warhammer)
+
+The name says it all really. This huge solid steel two handed hammer is crafted to decrease the morale of opposing apes on the battlefield. A giant 5 feet shaft made of elaborately decorated Ashwood would hold a massive steel hammer. The hammer has one blunt end for swinging and a sharp edge for prying open armor. On the very top of the hammerhead, a small ornate ape’s head with a pained expression is forged. The ape head has little practical use other than instilling further fear in the enemy when blood is splattered over its pained expression during combat.
+
+This very heavy hammer is usually only wielded by the strongest apes, as it takes both enormous strength and stamina to carry it into battle. Practical use cases for this legendary hammer includes skirmishing and harassing mounted units from afar as well as prodding and poking into shielded formation to attempt to break ranks.
+
+The origin of this spectacular hammer is very well known. The mines of Knam have long produced incredible amounts of raw iron. The supply was so high that local craftsmen had the luxury to run apprentice competitions across the district to see if there was real talent among the students. The turnout was good, and with the skills of their masters to guide the young students, the best of the best was crafted. The winner created the amazing Ape Smasher and retained the rights to its blueprints. While not the most complicated weapon to create, the ornate details and the sculped apes head makes the process time consuming and thus expensive.

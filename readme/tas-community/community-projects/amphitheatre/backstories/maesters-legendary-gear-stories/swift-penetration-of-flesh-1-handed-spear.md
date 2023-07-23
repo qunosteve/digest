@@ -1,7 +1,0 @@
-# Swift Penetration of Flesh (1 handed spear)
-
-What differentiated this one-handed spear from the more common type, is the excellent grip the combatant is able to attain. The wooden part of the spear is made of common Red Oak and the metal tip is forged in steel and quickly heated and quenched to obtain hardness. In an undisclosed location in Zeolle there is a very special tree that produces an extremely thick and sticky sap. Heating this substance and vulcanizing it makes for a stretchy dark blue material that is carefully wrapped around the spear to give great grips to the hand.
-
-During trials it has been proved that this grip enhances the speed of the weapon by as much as 20% compared to a normal one-handed spear.
-
-Only explorers in the district of Zeolle know what this tree looks like and where it is found. Many have tried to follow the explorers into the woods, but all attempts to reveal the location and process have failed. Due to this fact, only craftsmen native to Zeolle are able to buy the material from the explorers, thus raising the price of the spear significantly. The main purpose of this spear is to gain reach against opponents. At almost 5 feet, the spear is longer than common swords, so the combatant has the possibility to quickly jab towards the weak spots in the Apes armor. Swift penetration of flesh was a name that came up during a drinking competition in a tavern in Zeolle. The name has since stuck, and the weapon is now considered a legendary item among spear aficionados.

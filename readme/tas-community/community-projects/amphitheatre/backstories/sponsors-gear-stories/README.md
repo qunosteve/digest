@@ -1,2 +1,0 @@
-# Sponsors' Gear Stories
-
