@@ -11,7 +11,7 @@ Join up to 99 other players in this exclusive multiplayer game, where you can co
 
 
 
-### Original Release Video (Available on Steam now)
+### Original Release Video (Available on Steam now!)
 
 {% embed url="https://twitter.com/i/status/1660702166078685186" %}
 
