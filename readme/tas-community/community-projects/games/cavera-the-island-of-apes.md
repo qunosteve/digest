@@ -5,19 +5,15 @@ coverY: 0
 
 # Cavera - The Island of Apes
 
-
-
-{% file src="../../../../.gitbook/assets/Cavera_TIOA_Trailer_Final_01_1920x1080_compr_25339023_-_Trim_25340578.mp4" %}
-
-
-
 Welcome to Cavera - The Island of Apes, a top-rated vacation destination for all those who identify as degens or Apes. Immerse yourself in a cinematic island setting and enjoy socializing with your Ape friends while grooving to music in a spacious house. Whether you're looking for a chill chat or a thrilling adventure, Cavera has it all.
 
 Join up to 99 other players in this exclusive multiplayer game, where you can connect with like-minded individuals and engage in exciting activities. Take a dip in the crystal clear waters, or explore the island's lush terrain. With endless possibilities and a vibrant community, Cavera offers an unforgettable experience that you won't want to miss. So what are you waiting for? Come and join the fun at Cavera - The Island of Apes.
 
 
 
+### Original Release Video (Available on Steam now)
 
+{% embed url="https://twitter.com/i/status/1660702166078685186" %}
 
 ### Links:
 
