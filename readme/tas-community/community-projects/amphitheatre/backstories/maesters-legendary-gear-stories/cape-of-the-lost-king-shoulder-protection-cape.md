@@ -1,0 +1,11 @@
+# Cape of the Lost King (Shoulder protection/Cape)
+
+In the northern part of Brotaw, in a forgotten dilapidated Chateau, a secret room was discovered by a group of local explorers. It was just by pure accident that the explorers managed to find this old Chateau in the first place. The deep ancient forests of Brotaw with their great pine and fir trees were the perfect place for things to get lost in time. What were once hamlets and homesteads would be engulfed by the mighty forest in a few short decades and forever be forgotten.
+
+The Chateau that was found looked to have been a stately manor with several annexes and smaller buildings. Most of them had already been washed away by time, but the main house still stood with its thick stone walls covered in moss and fungi. Not much value could be found in the main halls. It had probably already been looted or worn away by time. In the basement level however, it seemed that a partial collapse of a wall had almost completely sealed off an entire room. A little breeze could be felt from those general areas, so the explorers proceeded to remove the stones to see if anything was back there. What was revealed was a massive room with a metal cabinet leaning against the back wall. The cabinet looked like it was made of solid gold, so naturally the explorer\`s hearts were already pumping twice the speed on this sight.
+
+What was found within the gold dresser was something very peculiar. Within sealed boxes, as many as ten similar looking capes were found. The capes were golden in color with leather studded pads for the shoulders. It looked to be exceptional quality. On the collar of the capes the text, “Johnsen Rex” was written in bold blue letters. Could this be the properties of a long forgotten local King?
+
+The capes were since taken to expert tailors who could further tell that the fabric was both wool and silk in different layers. It was definitely masterful craftsmanship that would cost a princely sum and time to fabricate. Especially the studded shoulder pads impressed the tailors. Such quality would suffice on the battlefield and protect the wearer from injury.
+
+Some of the higher end tailors in the Society has since replicated the capes, and it is sometimes sold as a legendary item used on the battlefields. Cape of the lost King seemed an appropriate name.

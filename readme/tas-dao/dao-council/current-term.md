@@ -18,13 +18,13 @@ description: List of Council Apes in the DAO
 
 ### Council - Edward de' Medici
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4) (1).png>)
 
 
 
 ### Council - Bonaventure Green
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (13) (1).png>)
 
 
 
@@ -64,4 +64,4 @@ description: List of Council Apes in the DAO
 
 ### Reserve- Kipp Cataldi
 
-![](<../../../.gitbook/assets/image (14).png>)
+![](<../../../.gitbook/assets/image (14) (1).png>)

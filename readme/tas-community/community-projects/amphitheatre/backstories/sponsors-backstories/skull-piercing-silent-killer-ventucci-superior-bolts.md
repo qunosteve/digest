@@ -1,0 +1,51 @@
+# Skull Piercing Silent Killer: Ventucci Superior Bolts
+
+Over time, King Dempster Ventucci and his family of merchants had come to solidify strong ties with the Amphitheatre. Since his very first visit with Forbes Baldwin, the relationship only grew from strength to strength. Word spread like wildfire across all the kingdoms of the popularity of the Ventucci Rapid Fire crossbow. The blueprints for the crossbow and bolts were unbelievably valuable, they had to be stored in an undisclosed location due to a failed heist attempt!&#x20;
+
+Dempster travelled across most of the districts to further promote the Ventucci RF crossbow and bolts. He managed to secure strong alliances with many of the classes in various districts. No biases were placed on who the Ventucci’s did business with. They respected all classes equally. As a result, the respect was reciprocated and the Ventucci name was held in high regard.&#x20;
+
+It was of no surprise that the consequence of hard work would be rewarded. The Ventucci’s had no option but to expand the manufacturing production business of the crossbows and bolts. Demand exceeded supply and they had to reorganize the business to cater for this growth. Steadily the balance of business was realigned, and Dempster could take a step back. Having the comfort that the business was in capable hands of the Ventucci family, he itched to get back into the trenches of creativity. He always had the desire to improve and upgrade the weapons capabilities. The road to success was exhilarating and rewarding, but it also took its toll. It was then that he decided to take a sabbatical to rejuvenate his soul.&#x20;
+
+Satchel packed, horse and carriage prepared, aviators on and rifle on his back, Dempster was ready for his next adventure. He was excited to explore and conduct any research that may assist in his creative juices flowing again. He bid his family farewell, and with no destination in mind, he began the journey. This time he decided to proceed in an unventured direction, far north it would be!&#x20;
+
+He travelled for weeks, his compass leading the way, before he spotted a crowd of Apes ahead. They were all on horseback and heading toward him. Dempster halted his horse and carriage and waited until the party of Apes approached and stopped. “Good day”, one of the Apes greeted him. He could not help but notice that this Ape wore a bright and shiny halo on his head. It was so bright and almost blinding, that Dempster was grateful he still wore his aviators. He returned the greeting and proceeded to enquire what their travel plans were. “Well sir, we are just a bunch of degens! Our destination is not too far off, in fact we should arrive there before dusk. You should join us sir.” Dempster was impressed with the invitation and friendly nature of these strangers. He enquired what exactly their destination would be, and what they were planning on doing. The friendly ape chuckled and replied, “Oh by the way, my name is Cristoval Wilson. Pleased to meet you. Oh, nothing major, we just planning a hunting trip in the morning, up past those woods ahead” Hmm… thought Dempster, this sounded like exactly what his research needed. He did not hesitate and immediately accepted the friendly invitation.&#x20;
+
+The destination was exactly that, in the woods, in the middle of nowhere! Cristoval and his party of Apes disembarked from their horses and immediately went about setting up camp for the night ahead. Dempster enquired if they needed his assistance, which they did not, so he decided to explore the surroundings. This pocket of the woods was actually very luscious, and it had a calming and therapeutic effect on him. He found that his senses went into overload! He could hear the chirping of the birds, the sound of flowing streams, the breathtaking sight of foliage and the smell of fresh air! What was this place? He hurried back to the camp to enquire.&#x20;
+
+Back at the camp the party of Apes were all settled and huddled around the campfire. As Dempster approached, he noticed how well lit up the camp site was. He realized that Cristoval’s halo was the source of light. The glow created a magical, otherworldly atmosphere and it felt like you were transported into another realm, one that is both serene and mysterious. He had to know, so he enquired what this place was.&#x20;
+
+The Apes all took turns explaining how they had discovered this place a few years back, whilst on one of their hunting trips. They recounted meeting a few green and blue Apes that first night. These strange coloured Apes explained that they were called Alien and Cardano Apes and they had been experimenting on a top-secret project that was going to revolutionize society. One of the Cardano Apes named Pantaleon Lavigne, was the leader of this group of scientists. He further explained that something went horribly wrong. Seems they developed a device that could potentially create a new energy source. The device somehow malfunctioned and Panteleon tried to manually override it. That is when things went completely haywire! The device exploded, sending shockwaves throughout the woods. Thankfully, no one was harmed. They noticed the following day how much brighter the surroundings looked, how much louder the sounds in the woods were and how crisper the air smelled. Something had transpired that none of them could explain, somehow this environment had been altered.&#x20;
+
+Dempster listened with intrigue as the Apes concluded this epic tale. He asked one last question, “Cristoval, is that how your halo came to shine so bright? “Cristoval gave a huge grin and nodded, “Yes sir, right place, right time”.&#x20;
+
+Later that night, whilst laying down to rest, and in the silence of the night, Dempster thoughts drifted back to his mission and purpose. Before his mind was filled with clutter and confusion, but now, in this place, he found clarity. He had to re-engineer the bolts! With no time to waste, he stood up, gathered his journal, and proceeded to jot down all the ideas flowing in his mind. It was like a faucet constantly open and flowing with water!&#x20;
+
+The next morning all the Apes awoke at the crack of dawn. Dempster was surprised that he felt no semblance of tiredness, considering he had no shut eye. In fact, he felt exhilarated and beyond excited that his journal contained a myriad of ideas.&#x20;
+
+He joined the party of Apes on the hunting expedition that morning. It was impressive to see the variety of hunting weapons. From spears, rifles, bow and arrows, and even crossbows. He instantly noticed that the speed and accuracy of the bolts shot during the hunting expedition could be improved upon. He made a mental note to add that to his list of ideas. The rest of the day turned out to be fun and lighthearted. More fuel for his soul!&#x20;
+
+The Apes were ready to depart the next morning. Dempster felt a sense of comradery with these strangers who he only knew for a few days. He extended an invitation to them to visit his hometown Rogeosk any time and they extended an annual invite to the hunting expedition. With that, they bid farewell and galloped off. Dempster decided to remain at this place for a while longer. He planned to work through his ideas and only leave with a solid plan of action.&#x20;
+
+Only a few days later he accomplished his goal. Written in his journal were the new specs and configuration for the crossbow bolts. He was ready to return home. As much as he hated leaving this place, he was excited to return home. He missed his family. Anyway, the knowledge that next year this time he would be back here to meet his new friends was consoling enough.&#x20;
+
+Packed and ready to depart, Dempster turned around once more to take in the beauty of this place. In a split second he could have sworn he had seen something or someone blue jolt pass in the distant trees. He was not sure if his eyes were playing tricks on him, he did have his aviators on after all. Anyway, no time to ponder, time to go home!&#x20;
+
+Back home he received the warmest welcome. He was only delighted to share his travel story and ultimate action plan with his community.&#x20;
+
+The page in his journal read:&#x20;
+
+**Range** – currently 40 yards – experiment to find the ultimate formula to improve the kinetic energy by increasing the mass and velocity of the bolt – aim for 60 yards – discuss with the Ventucci inhouse scientist&#x20;
+
+**Weight** – currently 400 grains – work on the range to improve mass – this will determine optimal weight – heavier bolt with produce substantial damage upon impact&#x20;
+
+**Accuracy** – current length of the bolt 20 inches - increase length to 22 inches: additional 2 inches will cause the broadhead to pass smoother off the crossbow rail when fired&#x20;
+
+**Speed** - currently 350 feet-per-second – push the limits to 505 feet-per-second – increase the draw weight of the bow, thereby increasing the power and speed&#x20;
+
+The Ventucci’s were elated with their King, and they immediately proceeded to brief only the best scientist. Work in the lab was chaotic, but in no time the optimal formula was derived and production of the first batch of superior bolts were born!&#x20;
+
+The superior bolts now when used in conjunction with the Ventucci RF crossbow offered an integrated and frictionless cocking and flight system when launching each bolt. The optimal speed and extreme accuracy enhance the already high penetration force. An arena fighter of the Amphitheatre who fights his battle with the Ventucci RF crossbow and superior bolts will stand a particularly good chance of victory. Once the crossbow gets cocked, the mechanism maintains full draw until the trigger gets released. This not only conserves energy for the fighter, but it allows him to focus solely on his target and properly aim the shot, increasing overall accuracy.&#x20;
+
+The Ventucci’s were proud to continue their contributions toward the Amphitheatre. It was an honour to sponsor 50 000 $Society toward the blueprints for the crossbow bolts. The Amphitheatre Grand Architect bestowed the Exalted Consult sponsorship award to the Ventucci family. Today the award can be proudly seen displayed in the Ventucci hometown.&#x20;
+
+For King Dempster Ventucci, he is happiest, be he King or peasant, who finds peace in his home!

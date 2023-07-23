@@ -4,6 +4,6 @@
 
 ## Lore
 
-{% content-ref url="../../../../../community-projects/landmarks/amphitheatre/backstories/sponsors-backstories/radcliffe-white-donates-to-the-amphitheatre.md" %}
-[radcliffe-white-donates-to-the-amphitheatre.md](../../../../../community-projects/landmarks/amphitheatre/backstories/sponsors-backstories/radcliffe-white-donates-to-the-amphitheatre.md)
+{% content-ref url="../../../../../community-projects/amphitheatre/backstories/sponsors-backstories/radcliffe-white-donates-to-the-amphitheatre.md" %}
+[radcliffe-white-donates-to-the-amphitheatre.md](../../../../../community-projects/amphitheatre/backstories/sponsors-backstories/radcliffe-white-donates-to-the-amphitheatre.md)
 {% endcontent-ref %}
