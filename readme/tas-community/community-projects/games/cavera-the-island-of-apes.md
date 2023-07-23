@@ -9,7 +9,7 @@ Welcome to Cavera - The Island of Apes, a top-rated vacation destination for all
 
 Join up to 99 other players in this exclusive multiplayer game, where you can connect with like-minded individuals and engage in exciting activities. Take a dip in the crystal clear waters, or explore the island's lush terrain. With endless possibilities and a vibrant community, Cavera offers an unforgettable experience that you won't want to miss. So what are you waiting for? Come and join the fun at Cavera - The Island of Apes.
 
-{% embed url="https://twitter.com/i/status/1660702166078685186" fullWidth="true" %}
+{% embed url="https://twitter.com/i/status/1660702166078685186" fullWidth="false" %}
 
 ### Links:
 
