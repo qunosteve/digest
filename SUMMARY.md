@@ -2,7 +2,10 @@
 
 * [The Ape Society Digest](README.md)
   * [TAS DAO](readme/tas-dao/README.md)
-    * [DAO Initiatives](readme/tas-dao/dao-initiatives.md)
+    * [DAO Initiatives](readme/tas-dao/dao-initiatives/README.md)
+      * [Active](readme/tas-dao/dao-initiatives/active.md)
+      * [Approved](readme/tas-dao/dao-initiatives/approved.md)
+      * [Fulfilled](readme/tas-dao/dao-initiatives/fulfilled.md)
     * [Incorporation](readme/tas-dao/incorporation.md)
     * [DAO Council](readme/tas-dao/dao-council/README.md)
       * [DAO Constitution](readme/tas-dao/dao-council/dao-constitution.md)

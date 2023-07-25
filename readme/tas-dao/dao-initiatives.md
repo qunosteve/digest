@@ -1,3 +1,0 @@
-# DAO Initiatives
-
-DAO Initiatives

@@ -7,3 +7,22 @@ description: >-
 
 # Inquisitor's Intel
 
+
+
+<details>
+
+<summary>B0038 - CRPG Experience</summary>
+
+
+
+</details>
+
+
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
