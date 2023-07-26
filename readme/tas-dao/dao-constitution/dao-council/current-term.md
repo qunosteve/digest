@@ -6,43 +6,43 @@ description: List of Council Apes in the DAO
 
 ### Chair - Bentley Lavinge
 
-![](<../../../.gitbook/assets/image (10).png>)
+![](<../../../../.gitbook/assets/image (10).png>)
 
 
 
 ### Vice Chair - Mesmin Smith
 
-![](<../../../.gitbook/assets/image (11).png>)
+![](<../../../../.gitbook/assets/image (11).png>)
 
 
 
 ### Council - Edward de' Medici
 
-![](<../../../.gitbook/assets/image (4) (1).png>)
+![](<../../../../.gitbook/assets/image (4) (1).png>)
 
 
 
 ### Council - Bonaventure Green
 
-![](<../../../.gitbook/assets/image (13) (1).png>)
+![](<../../../../.gitbook/assets/image (13) (1).png>)
 
 
 
 ### Council - Bradford Rich
 
-![](../../../.gitbook/assets/image.png)
+![](../../../../.gitbook/assets/image.png)
 
 
 
 ### Council - Grayson de Balboa
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../../.gitbook/assets/image (1).png>)
 
 
 
 ### Council - Wilfred Thomas
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../../.gitbook/assets/image (7).png>)
 
 
 
@@ -54,14 +54,14 @@ description: List of Council Apes in the DAO
 
 ### Council - Carlos King
 
-![](<../../../.gitbook/assets/image (5).png>)\
+![](<../../../../.gitbook/assets/image (5).png>)\
 
 
 ### Reserve- Andres Hill
 
-![](<../../../.gitbook/assets/image (15).png>)\
+![](<../../../../.gitbook/assets/image (15).png>)\
 
 
 ### Reserve- Kipp Cataldi
 
-![](<../../../.gitbook/assets/image (14) (1).png>)
+![](<../../../../.gitbook/assets/image (14) (1).png>)
