@@ -1,2 +1,0 @@
-# Doork East Magazine
-

@@ -1,2 +1,0 @@
-# Craftsman's Tales
-

@@ -1,2 +1,0 @@
-# TAS MAP by RelevantData
-

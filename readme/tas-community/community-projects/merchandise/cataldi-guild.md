@@ -1,2 +1,0 @@
-# Cataldi Guild
-
