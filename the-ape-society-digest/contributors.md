@@ -6,7 +6,7 @@ description: List of Ape Society Digest Contributors
 
 ### G. de Balboa
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 ###
 

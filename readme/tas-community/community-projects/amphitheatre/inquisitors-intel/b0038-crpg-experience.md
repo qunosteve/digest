@@ -8,7 +8,7 @@ description: >-
 
 * I found the connection to Steam via the website actually pretty straight forward, as it was just a case of logging in to my account (users who don't have steam or not familiar with it may find it a bit more complicated)&#x20;
 * The MOD download was easy. The bit that may confuse people is when you have to select the right mod before playing (see example attached).
-* ![](<../../../../../.gitbook/assets/image (2) (1) (1).png>)
+* ![](<../../../../../.gitbook/assets/image (2) (1) (1) (1).png>)
 * A few features I found on the website which I think could really improve the UI, as it does feel a bit 'clunky' are
 * Equipping Weapons and Armor - wasn't an obvious thing, you have to click and drag them into the correct placement and as someone who had just started took me a while to figure out, a solution would be a simple equip/unequip button.
 * Characteristic menu - now this area for me was super confusing, as I had no idea what skill points to use where, i didn't even know what the skill points were being used for and which ones would benefit my character. I think a solution to this would be some example builds of each class (melee, two handed, polearm, ranged etc) that users can see as a good guide in where to put their points. or even pre-set default classes/builds to really help newcomers and the UI.

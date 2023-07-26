@@ -30,13 +30,13 @@ description: List of Council Apes in the DAO
 
 ### Council - Bradford Rich
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (2).png>)
 
 
 
 ### Council - Grayson de Balboa
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 
 
