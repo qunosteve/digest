@@ -16,7 +16,7 @@ The core TAS team maintains an official litepaper that contains more info about 
 
 {% embed url="https://litepaper.theapesociety.io/" %}
 
-## What is The Ape Society Digest?
+## But What is The Ape Society Digest?
 
 The Ape Society Digest is a directory of information that specifically pertains to the DAO and Community of the Ape Society.
 
