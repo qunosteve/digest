@@ -1,8 +1,8 @@
 ---
-description: All there is to know about your piece of virtual estate in The Ape Society
+description: All there is to know about your neighbors in The Ape Society
 ---
 
-# Cabins, by The Ape Society
+# Cabins & Districts
 
 ## Cabins
 
@@ -31,7 +31,3 @@ Each postal code contains a district code, which is the name of the district tha
 There are 35 unique districts, each with their district codes. Certain districts have landmarks that might make them more attractive than other districts to cabin holders.
 
 ![District Codes](../../../.gitbook/assets/codes.jpeg)
-
-Learn more about Cabins & Addresses in the medium article below&#x20;
-
-{% embed url="https://medium.com/@theapesociety/cabins-addresses-ee31094076c9" %}

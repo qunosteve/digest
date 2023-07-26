@@ -2,7 +2,7 @@
 
 ## Amphitheatre Gets a Rich Boost
 
-[Brotaw District](../../../../cabins-by-the-ape-society/districts/district-5-brotaw-br.md) - The Ventucci merchants have arrived from their trek to the mountains to procure the stone and materials needed for construction of the new Amphitheatre landmark being built in the city. The scarlet and silver colors of the wagons and horses make quite a spectacle as they take up the whole road. A long procession of horses and wagons make their way down Main Street as they cross through the District 5 gateway into the capital city. Many have come out to greet them as they stand outside their homes and businesses.&#x20;
+[Brotaw District](../../../../cabins-by-the-ape-society/district-1-heolt-he/district-5-brotaw-br.md) - The Ventucci merchants have arrived from their trek to the mountains to procure the stone and materials needed for construction of the new Amphitheatre landmark being built in the city. The scarlet and silver colors of the wagons and horses make quite a spectacle as they take up the whole road. A long procession of horses and wagons make their way down Main Street as they cross through the District 5 gateway into the capital city. Many have come out to greet them as they stand outside their homes and businesses.&#x20;
 
 News of the construction of an Amphitheatre has redoubled the fame of the Ape Society and the capital city in recent weeks. Shrewdnesses from all over Ouroboros are visiting the construction site and keeping the Ape Society flush with tourism. The surge of popularity that passed the artist-family expansion has continued to spill into the culture. In every district, you see workshops and studios popping up. Master artists, with their apprentices and assistants, have the marketplaces buzzing with their creations. Street performers are no longer jeered and neglected. Instead, the skilled and entertaining are celebrated. The addition of the class reshapes artists' lives, and now the aesthetics and acoustics of the city will be transformed in return!&#x20;
 
@@ -38,7 +38,7 @@ Out in front of the building the Ventucci arrived and began loading the donation
 [..](../../)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../cabins-by-the-ape-society/districts/district-5-brotaw-br.md" %}
-[district-5-brotaw-br.md](../../../../cabins-by-the-ape-society/districts/district-5-brotaw-br.md)
+{% content-ref url="../../../../cabins-by-the-ape-society/district-1-heolt-he/district-5-brotaw-br.md" %}
+[district-5-brotaw-br.md](../../../../cabins-by-the-ape-society/district-1-heolt-he/district-5-brotaw-br.md)
 {% endcontent-ref %}
 
