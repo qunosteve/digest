@@ -134,6 +134,7 @@
         * [Families](readme/tas-community/community-projects/lifestyle/families/README.md)
           * [Cataldi Guild](https://www.cataldi.io/)
           * [de Balboa Family Page](https://balboa-fam.vercel.app/home)
+          * [Forge Front](https://theapesociety.gitbook.io/digest/readme/tas-community/apes/craftsmen/smith/smith-family-perks/the-forge-front)
           * [Royal Forof Guild](https://twitter.com/RoyalForolf)
       * [Literature/Publications](readme/tas-community/community-projects/literature-publications/README.md)
         * [Doork East Magazine](https://doorkeast.com/)
