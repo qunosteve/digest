@@ -18,6 +18,6 @@ Below is a list of Non-Confidential DAO Initiatives Voted on by The Ape Society 
 
 
 
-{% content-ref url="dao-initiatives/fulfilled.md" %}
-[fulfilled.md](dao-initiatives/fulfilled.md)
+{% content-ref url="dao-initiatives/fulfilled/" %}
+[fulfilled](dao-initiatives/fulfilled/)
 {% endcontent-ref %}
