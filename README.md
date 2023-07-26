@@ -20,6 +20,6 @@ The core TAS team maintains an official litepaper that contains more info about 
 
 The Ape Society Digest is a directory of information that specifically covers the DAO and Community of the Ape Society.
 
-### Why a separate Catalogue of information?
+### Why A Separate Catalogue of information?
 
 The Ape Society DAO is an entity that consists of Ape Society community members with its own initiatives, legal structure, and treasury that is separate from to AF1 (Ape Force One, the core dev team of Ape Society). This digest catalogues the TAS DAO structure as well as TAS community contributions and information. This registry of information has become a necessity as the Ape Society community is a busy bunch who use their Ape Society branding to launch various projects, lore, personalities, books, and much more.\

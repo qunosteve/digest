@@ -4,7 +4,7 @@
   * [TAS DAO](readme/tas-dao/README.md)
     * [DAO Constitution](readme/tas-dao/dao-constitution/README.md)
       * [DAO Council](readme/tas-dao/dao-constitution/dao-council/README.md)
-        * [Current Term](readme/tas-dao/dao-constitution/dao-council/current-term.md)
+        * [Current Council](readme/tas-dao/dao-constitution/dao-council/current-council.md)
     * [Incorporation](readme/tas-dao/incorporation.md)
   * [DAO Initiatives](readme/dao-initiatives/README.md)
     * [Active](readme/dao-initiatives/active/README.md)
