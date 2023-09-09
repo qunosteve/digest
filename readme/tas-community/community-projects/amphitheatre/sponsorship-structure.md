@@ -71,12 +71,18 @@ Upon some recent discoveries, Grand Maester Esmond Mars has deeply researched va
 
 In addition to the passionate efforts of our community members who are busy crafting items, intriguing reports have surfaced from intrepid Explorers returning from their distant expeditions. These adventurers claim to have witnessed the existence of enigmatic and potentially legendary item sets during their travels.
 
-As the construction of the Amphitheatre advances, Grand Architect Beltran White will collaborate with realms beyond the Ape Society's borders to facilitate Expeditions. These journeys will grant explorers the remarkable opportunity to venture into uncharted lands, in pursuit of these elusive mythical items. For further information, please refer to the Expeditions section.\
+As the construction of the Amphitheatre advances, Grand Architect Beltran White will collaborate with realms beyond the Ape Society's borders to facilitate Expeditions. These journeys will grant explorers the remarkable opportunity to venture into uncharted lands, in pursuit of these elusive mythical items. For further information, please refer to the [expeditions-cross-project-collabs.md](expeditions-cross-project-collabs.md "mention")section.\
 
 
 ### **Balance**
 
 We do not want the Amphitheatre to turn into a “pay to win” environment. We want contestants with high tier gear to have access to higher damage, armor, precision, and mobility; however, we don’t want to leave contenders without high tier gear with zero chances of winning. During phases 3 and 4, there will be extensive testing done to find the right balance of increased weapon stats and fair play. There will also be efforts to establish opportunities for skilled players to advance even if they find themselves with limited capital but possess a surplus of time and dedication.
+
+
+
+### **Secondary Market Trading**
+
+Amphitheatre gear can be traded on the secondary market. We will setup a structure almost identical to the Ape Society Market where only SOCIETY can be used to buy/sell Amphitheatre gear.
 
 
 
@@ -92,7 +98,7 @@ There are 19 gear "slots" that sponsors can sponsor a blueprint for:
 
 * Armour pieces: Head, Shoulders/Cape, Body, Hands, Boots
 * Special: Horse Harness, Shields
-* One Handed Weapons: Blunt, Axe, Sword, Spear (All 1h weapons can be wielded with a Shield. Some 1h weapons can double as throwing weapons depending on sponsor's tradeoffs when designing the utilities of their weapon in phase4)
+* One Handed Weapons: Blunt, Axe, Sword, Spear (All 1h weapons can be wielded with a Shield. Some 1h weapons can double as throwing weapons depending on sponsor's tradeoffs when spending their gear bonus points of their weapon in phase4)
 * Two Handed weapons: 2h Mace, 2h Axe, 2h Sword, 2h Polearm (glaive/halberd/etc). (2h weapons will hit harder than 1h weapons)
 * Ranged: Crossbows, Bolts (for crossbows), Bows, Arrows (for bows),&#x20;
 
@@ -101,20 +107,28 @@ Here's a sample visual of the tracker with the 19 slots as of Epoch 387:
 ![](<../../../../.gitbook/assets/image (8).png>)\
 
 
-### **Gear Slot Soft and Hard Caps (As of Epoch 387)**
+### **Gear Slot Soft and Hard Caps**
 
-Now that we are making good ground on fundraising, and also to to reduce the dilution of blueprints available to the crafter (gives the sponsor's opportunities for their blueprint to be noticed), there is now a "soft cap" of 3 and a **hard cap** of 5 blueprints per slot.  What this means is sponsors can sponsor a max of 3 individual sponsorships per slot. There is only one exemptions for this soft cap: Sponsorships sponsorships unlocked via **only** [blueprint token ](blueprint-token.md)earned by completing [bounties](bounty-structure.md) can exceed the soft cap of 3 of up a hard cap of 5.
+Update as of Epoch 387 - With our successful progress in fundraising and our commitment to enhancing the visibility of blueprints for crafters while avoiding over-dilution, we have instituted a new blueprint allocation policy featuring both a "soft cap" and a "hard cap" of 3 and 5 blueprints per slot, respectively.
 
-Some clarifications: if you have secured a blueprint before the soft cap of an item slot is reached, it can be any tier (tiers discussed below). You can always upgrade the blueprint to a higher tier. (deadline to upgrade is looking like end of phase 3, will put this up for vote in the governance channel). Also, to clear up one misconception out there: Just because someone owns certain tier of blueprint in a specific slot, doesn't mean someone else can't unlock that same tier within that blueprint slot (it is allowed have multiple majestic blueprints for a 2h sword, for example).
+To clarify, this means that sponsors can support a maximum of three individual sponsorships per slot, with a notable exception: sponsorships unlocked exclusively through [blueprint-token.md](blueprint-token.md "mention") earned by completing Bounties via the [bounty-structure.md](bounty-structure.md "mention") can surpass the soft cap, reaching up to a hard cap of five.
+
+Here are some key points:
+
+1. When you get a blueprint, its tier isn't limited by the item "slot" (more on tiers below).
+2. You can upgrade your blueprint to a higher tier if you want to. See [blueprint-token.md](blueprint-token.md "mention") for details.
+3. The deadline for upgrades is tentatively set for the end of phase 4, but this can be decided by a vote in the governance channel.
+
+Additionally, it's crucial to debunk a common misconception: the ownership of a specific tier of blueprint in a particular slot does not prevent others from unlocking the same tier within that blueprint slot. Multiple majestic blueprints for a 2h sword, for instance, are entirely permissible.
 
 ### **Sponsorship Tiers**
 
 There are 4 tiers of sponsorships. Here are the requirements to unlock them:
 
-* Honoured Merchant's Sponsorship – 10k $SOCIETY donation
-* Exalted Consult's Sponsorship – 50k $SOCIETY donation
-* Majestic Noble's Sponsorship – 250k $SOCIETY donation
-* Supreme Ruler's Sponsorship – 1mil $SOCIETY donation
+* Honoured Merchant's Sponsorship – 10k $SOCIETY or Blueprint Token donation
+* Exalted Consult's Sponsorship – 50k $SOCIETY or Blueprint Token donation
+* Majestic Noble's Sponsorship – 250k $SOCIETY or Blueprint Token donation
+* Supreme Ruler's Sponsorship – 1mil $SOCIETY or Blueprint Token donation
 
 Once a donation is submitted, to authenticate their donation, donors will need to provide these pieces of information to the Amphitheatre team (via the [authenticate-donations-here](https://discord.com/channels/1008361097553776743/1018579830272438292) channel within the Amphitheatre discord):
 
@@ -145,11 +159,11 @@ By unlocking a “Honoured Merchant’s Sponsorship”, the sponsor earns the ri
 
 Honoured Gear “Blueprints” cost **1.5x** the base rate (**1125** $SOCIETY) to craft (**33%** goes to the sponsor as royalties every time this item is crafted), and the probability of crafting higher tier at this level is provided here:
 
-* **64.975% chance of crafting Honoured Gear**
+* **64.9% chance of crafting Honoured Gear**
 * **20% chance of crafting Exalted Gear**
 * **10% chance of crafting Majestic Gear**
 * **5% chance of crafting Supreme Gear**
-* **.025% chance of crafting Heroic Gear**
+* **.1% chance of crafting Heroic Gear**
 
 **Maesters notes:**
 
@@ -166,10 +180,10 @@ By unlocking a “Exalted Consult’s Sponsorship”, the sponsor earns the righ
 
 Exalted Gear “Blueprints” cost **2.5x** the base rate (**1875** $SOCIETY) to craft (**60%** goes to the sponsor as royalties every time this item is crafted), and the probability of crafting higher tier at this level is provided here:
 
-* **69.875% chance of crafting Exalted Gear**
+* **69.7% chance of crafting Exalted Gear**
 * **20% chance of crafting Majestic Gear**
 * **10% chance of crafting Supreme Gear**
-* **.125% chance of crafting Heroic Gear**
+* **.3% chance of crafting Heroic Gear**
 
 **Maesters notes:**
 
@@ -221,9 +235,17 @@ Maester of the Amphitheatre would like to honor the sponsors with lore outputs a
 * A second bounty will be issued. Here the named gear piece will receive a backstory that will be implemented as lore in the Amphitheatre and game. Sponsor will be given opportunity to give keyword inputs to the story
 * Maester Esmond Mars will personally write contemporary lore associated with supreme sponsor. Lore will be directly related to amphitheater and its use cases
 
+**Grape Ape Records Special Promotion**
+
+Supreme Sponsor gets a free 15 second audio commercial to advertise their blueprint in the Grape Ape records gramophone Audio loop under development.
+
+
+
 ### **Perpetual Staking Rewards from Amphitheatre Admissions (Majestic and Supreme Certificates)**
 
-Everyone who holds a Majestic or Supreme Certificate shares 5% of admissions in the Amphitheatre in perpetuity. We will work out a mechanism as we get closer to implementation. Maybe we can collaborate with AF1 on this to integrate this to the frames‘ staking mechanics.
+Everyone who holds a Majestic or Supreme Certificate shares 5% of admissions in the Amphitheatre in perpetuity. We will work out a mechanism as we get closer to implementation.&#x20;
+
+
 
 ### **Lottery airdrop from Amphitheatre Admissions (Supreme Certificates)**
 
@@ -246,49 +268,49 @@ To help reward the most devoted families that support the Amphitheatre, we’re 
 
 ### **Class Perks**
 
-#### **Winning Craftsmen Family 1 (Discounted Materials Slot)**
+#### **Winning Craftsmen Family 1 (Discounted Materials Slot) - Winner: Evans Family Exalted Sponsorship**
 
 * Honoured merchant sponsorship earns family 5% discount when crafting Amphitheatre gear
 * Exalted consult sponsorship earns family 10% discount when crafting Amphitheatre gear
 * Majestic noble’s sponsorship earns family 25% discount when crafting Amphitheatre gear
 * Supreme ruler’s sponsorship earns family 50% discount when crafting Amphitheatre gear
 
-#### **Winning Craftsmen Family 2 (Expert Craftsmen Slot)**
+#### **Winning Craftsmen Family 2 (Expert Craftsmen Slot) - Winner: Smith Family Majestic Sponsorship**
 
 * Honoured merchant sponsorship earns family 1.5x increased chance to craft Legendary/Heroic items.
 * Exalted consult sponsorship earns family 2.5x increased chance to craft Legendary/Heroic items.
 * Majestic noble’s sponsorship earns family 5x increased chance to craft Legendary/Heroic items.
 * Supreme ruler’s sponsorship earns family 10x increased chance to craft Legendary/Heroic items.
 
-#### **Winning Artist Family**
+#### **Winning Artist Family - Winner: Rich Family Supreme Sponsorship**
 
 * Honoured merchant sponsorship earns family 10% guaranteed performance bonus as announcer
 * Exalted consult sponsorship earns family 25% guaranteed performance bonus as announcer
 * Majestic noble’s sponsorship earns family 50% guaranteed performance bonus as announcer
 * Supreme noble’s sponsorship earns family 100% guaranteed performance bonus as announcer
 
-#### **Winning Explorer Family**
+#### **Winning Explorer Family - De Balboa Family Exalted Sponsorship**
 
-* Honoured merchant sponsorship earns family 1.5x increased chance to be airdropped Legendary items.
-* Exalted consult sponsorship earns family 2.5x increased chance to be airdropped Legendary items.
-* Majestic noble’s sponsorship earns family 5x increased chance to be airdropped Legendary items.
-* Supreme ruler’s sponsorship earns family 10x increased chance to be airdropped Legendary items.
+* Honoured merchant sponsorship earns family 1.5x increased chance to earn Mythical items from expeditions.
+* Exalted consult sponsorship earns family 2.5x increased chance to earn Mythical items from expeditions.
+* Majestic noble’s sponsorship earns family 5x increased chance to earn Mythical items from expeditions.
+* Supreme ruler’s sponsorship earns family 10x increased chance to earn Mythical items from expeditions.
 
-#### **Winning Merchant Family**
+#### **Winning Merchant Family - Ventucci Family Supreme Sponsorship**
 
 * Honoured merchant sponsorship earns each attending family member a chance to get an airdrop of 5% from staking line profits per tournament.
 * Exalted consult sponsorship earns each attending family member a chance to get an airdrop of 10% from staking line profits per tournament.
 * Majestic noble’s sponsorship earns each attending family member a chance to get an airdrop of 25% from staking line profits per tournament.
 * Supreme ruler’s sponsorship earns attending family members a lottery chance to get an airdrop of 50% from staking line profits per tournament.
 
-#### **Winning Military Officer Family**
+#### **Winning Military Officer Family - Wright Family Majestic Sponsorship**
 
 * Honoured merchant sponsorship earns family +5% character stat increases in the arena over other military officer families.
 * Exalted consult sponsorship earns family +10% character stat increases in the arena over other military officer families.
 * Majestic noble’s sponsorship earns family +25% character stat increases in the arena over other military officer families.
 * Supreme ruler’s sponsorship earns family +50% character stat increases in the arena over other military officer families.
 
-#### **Winning Royal Advisor Family**
+#### **Winning Royal Advisor Family - No Families participated before cutoff**
 
 * Honoured merchant sponsorship earns family 10% guaranteed performance bonus as administrator.
 * Exalted consult sponsorship earns family 25% guaranteed performance bonus as administrator.
@@ -302,7 +324,7 @@ There were a few **Early Sponsors** who supported the Amphitheatre before this d
 
 ### **The Chiesa Family**
 
-Before the sponsorship incentives were even a thought, **King** **Amilcar** **Chiesa** knew the Amphitheatre would be a huge boon to the Ape Society. King Chiesa was the first king who took a leap of faith in donating. He rallied his family to be the Amphitheatre’s very first donor of **79.62k** SOCIETY! To reward the Chiesa family for the first ever donation to the Amphitheatre, the Chiesa family has locked in a non-competitive perk of a **25%** rebate when renting the Chiesa shops. Chiesa family is free to unlock higher tier donations if they wish to upgrade to **Majestic** for a **50%** rebate or **Supreme** for a **75%** rebate. Individual perks apply to King Chiesa as well.
+Before the sponsorship incentives were even a thought, **King** **Amilcar** **Chiesa** knew the Amphitheatre would be a huge boon to the Ape Society. King Chiesa was the first king who took a leap of faith in donating. He rallied his family to be the Amphitheatre’s very first donor of **79.62k** SOCIETY! To reward the Chiesa family for the first ever donation to the Amphitheatre, the Chiesa family has locked in a non-competitive perk of a **25%** rebate when renting the Chiesa shops.&#x20;
 
 As the Amphitheatre’s first sponsor, recipients of the Sponsor’s line of certificates will be honoured by the signature of King Amilcar Chiesa.
 
@@ -312,33 +334,19 @@ Florimond Brown’s early donation is appreciated, and in consolation for his co
 
 ### **Carver de’ Medici**
 
-Early on, Carver de’ Medici read the Amphitheatre’s plan and instantly fell in love with the vision! Since Carver de’ Medici was an early donor, Carver has “locked” a non-competitive Noble’s slot (see noble’s individual competition). Carver has currently secured a **25%** discount for his team. Carver is free to upgrade his sponsorship to unlock greater discounts for his team if he chooses. Only Carver is eligible for **50%** and **75%** team discount if he chooses to unlock the **Majestic** and **Supreme** levels, respectively.
+Early on, Carver de’ Medici read the Amphitheatre’s plan and instantly fell in love with the vision! Since Carver de’ Medici was an early donor, Carver has “locked” a non-competitive Noble’s slot (see noble’s individual competition). By unlocking a Majestic blueprint, Carver has currently secured a 50**%** discount for his team for the large scale tournaments outlined in the Original Proposal.
 
 Also, recipients of the Inquisitor’s line of certificates will be honoured by the signature of Carver de’ Medici.
 
 ### **The White Family**
 
-Architect Beltran White was approached by his King, Radcliff White (aka the Naked king), to see where he could help with the Amphitheatre. After discussing how the Amphitheatre will entertain all members of the Cardano blockchain, King White has declared that the White family will be the distinguished hosts to welcome all into the Amphitheatre by donating **250k SOCIETY**. Architect Beltran White is overjoyed from the blessing shown by his King. To celebrate the White family’s early commitment to the Amphitheatre, King White and the White Family gain the following perks:
+Architect Beltran White was approached by his King, Radcliff White (aka the Naked king), to see where he could help with the Amphitheatre. After discussing how the Amphitheatre will entertain all members of the Cardano blockchain, King White has declared that the White family will be the distinguished hosts to welcome all into the Amphitheatre by donating **250k SOCIETY**. Architect Beltran White is overjoyed from the blessing shown by the leader of his family. To celebrate the White family’s early commitment to the Amphitheatre, King White and the White Family gain the following perks:
 
 * King White unlocks a **Majestic Noble’s Sponsorship**.
-* As distinguished hosts, the White family gets **50%** discount on Amphitheatre admissions (both in the arena and in the audience)
+* As distinguished hosts, the White family gets **50%** discount on Amphitheatre admissions for the Tournaments outlined in the Original Proposal.
 * King White earns naming rights to the Amphitheatre
-* King White earns the “individual perks” associated with a **Majestic Noble’s Sponsorship** outlined above
-
-King White can choose to rally his family for more donations in order to unlock a **Supreme** sponsorship any time before Phase 4 if he desires to unlock a **75%** discount for his family and the **Supreme** individual perks.
+* King White earns the “individual perks” associated with a **Majestic Noble’s Sponsorship** outlined above.
 
 Builders of the Amphitheatre will be recognized not only by the Architect, but by Royalty. Recipients of the Artisan’s line of certificates will be honoured by the signature of King Radcliff White going forward.
 
-## **Revision History**
-
-Revision 1 - Clarified No Cap on desired gear slot on sponsorships as per convo.
-
-Revision 2 - Cleaned up a typo and added the revision number to the cover page
-
-Revision 3 - Acquired licensing of the Arena Graphic for commercial use
-
-Revision 4 - Reworded a few elements of the Foreword for consisency with the upcoming Bounty structure document. Converted handle text to a hyperlink to the addr to help lower the risk of sending to a wrong address
-
-Revision 5 – Opened up the family competition up to merchant families while retaining the Chiesa perks. Adjusted the Noble team’s donation perks to incentivize higher donations. Mirrored the base cost of crafting gear to lvl 0 frames
-
-Revision 6 – Clarified weapon tier combat effectiveness metrics, included info about recently discovered legendary blueprints, integrated “legendary” item crafting probabilities, clarified crafting costs, and added a 2nd craftsman family competition opportunity. Anticipated a rush of competitors with the Epoch 364 constraint, but as it turns out, we have a slower pace of donations, so that constraint was removed for the competition.
+##
