@@ -194,9 +194,9 @@ By unlocking a “Majestic Noble’s Sponsorship”, the sponsor earns the right
 
 Majestic Gear “Blueprints” cost **5x** the base rate (**3750** $SOCIETY) to craft (**80%** goes to the sponsor as royalties every time this item is crafted), and the probability of crafting higher tier at this level is provided here:
 
-* **79.375% chance of crafting Majestic Gear**
+* **79.1% chance of crafting Majestic Gear**
 * **20% chance of crafting Supreme Gear**
-* **.625% chance of crafting Heroic Gear**
+* **.9% chance of crafting Heroic Gear**
 
 **Maesters notes:**
 
@@ -215,8 +215,8 @@ By unlocking a “Supreme Ruler’s Sponsorship”, the sponsor earns the right 
 
 Supreme Gear “Blueprints” cost **10x** the base rate (**7500** $SOCIETY) to craft (**90%** goes to the sponsor as royalties every time this item is crafted), and the probability of crafting higher tier at this level is provided here:
 
-* **97.5% chance of crafting Supreme Gear**
-* **2.5% chance of crafting Heroic Gear**
+* **97.3% chance of crafting Supreme Gear**
+* **2.7% chance of crafting Heroic Gear**
 
 **Maesters notes:**
 
