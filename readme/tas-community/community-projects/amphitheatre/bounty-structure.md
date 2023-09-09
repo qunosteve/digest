@@ -8,13 +8,13 @@ Building the Amphitheatre landmark will require the collective effort and teamwo
 
 The primary mission of The Amphitheatre Builder’s Bounty Program is to honor and reward the dedicated community members of the Ape Society who contribute to building the Amphitheatre landmark. The primary method of reward will be the issuance of “certificates” that will serve as immutable, on-chain “proof” that a person has contributed the project and how. These certificates will introduce a novel way for a person to showcase their skills in a web3 world. The use case will be more apparent when Ape Society cabins are released where you can frame your non fungible tokens on display inside of Cabin picture frames.
 
-Implementing a method to reimburse the participants’ operating costs will help in supporting the sustainability and talent retention of the project. To achieve this, some bounties in this program will award recipients with $SOCIETY token, the Ape Society’s ecosystem token. Operating costs could include but are not limited to: internet service provider data usage, computer software and hardware costs, education and training costs, blockchain transaction fee costs when testing, book and media (writers’ inspiration) rental costs, and/or rising energy costs when undergoing heavy 3d rendering of assets. At time of this writing, the amount of $SOCIETY issued for each bounty has been calibrated to avoid unreasonably exorbitant payouts at its current value, while also giving enough cushion to absorb the price volatility of the token and the fees incurred while transferring tokens.
+Implementing a method to reimburse the participants’ operating costs will help in supporting the sustainability and talent retention of the project. To achieve this, some bounties in this program will award recipients with $SOCIETY token, the Ape Society’s ecosystem utility token. Operating costs could include but are not limited to: internet service provider data usage, computer software and hardware costs, education and training costs, blockchain transaction fee costs when testing, book and media (writers’ inspiration) rental costs, and/or rising energy costs when undergoing heavy 3d rendering of assets. At time of this writing, the amount of $SOCIETY issued for each bounty has been calibrated to avoid unreasonably exorbitant payouts at its current value, while also giving enough cushion to absorb the price volatility of the token and the fees incurred while transferring tokens.
 
 ## **Disclaimer**
 
 This project makes no representations regarding the tax consequences of the payments that are made under this structure. Participants in this program are responsible for any tax liability associated with bounty award payments they receive. Also, this project is neither funded nor ran by the Ape Society DAO or development team; this is purely a community led project to enrich the participation and immersion in the Ape Society ecosystem.
 
-## **Prerequisites**
+## **Bounty Prerequisites**
 
 To help encourage the understanding of the utility of the $SOCIETY token awarded in the bounties, the recipients of these bounties must demonstrate proof of ownership of an Ape Society asset. On bounty completion, the recipient will name the eligible asset they own, and the rewards/certificate will go to that asset.\
 \
@@ -38,34 +38,7 @@ dac355946b4317530d9ec0cb142c63a4b624610786c2a32137d78e25
 
 ### **Special Certificates**
 
-As of this moment, for special non-bounty associated Certificates, a recipient must hold an Ape Society ape to receive the “Special” certificates that are outlined in this document.
-
-## **The Stewardship**
-
-The Stewards of the Amphitheatre are a group of members who are charged with the following responsibilities:
-
-* Strategic governance and oversight
-* Managing budgets
-* Posting, Evaluating, and awarding Bounties in their Domain
-* Other administrative responsibilities as needed
-
-### **Stewardship Seats**
-
-There are 5 seats in the Stewardship. Here are their roles and responsibilities.
-
-* Grand Architect – Overseer of the project. Charged with implementing the vision and spirit of the Proposal that was popularized by the community. When a seat is empty, the Architect assumes that seat’s responsibilities.
-* Grand Maester – Responsible for the recordkeeping and social media accounts of the Amphitheatre. Posts and evaluates bounties in the writing and lore domain.
-* Grand Artisan – Responsible for the technical development and implementation of the Amphitheatre. Also responsible for posting/evaluating bounties in the technical domain.
-* Grand Maestro – Responsible for the style, 3d and 2d assets, and music of the Amphitheatre and posting/evaluating the artists’ bounties.
-* Grand Inquisitor – Responsible for the integrity of the Amphitheatre (seeking out exploits/bugs in the game/dApp and achieving optimal game balance) and its domain’s bounties. Also responsible for industry research.
-
-The first cohort of Stewards will be appointed by the Grand Architect. The responsibilities of these seats are subject to change as the project moves along and adaptations are needed. Non-Mercenary Certificates (including Sponsors) will to be used as governance tokens to vote on future candidates when participants achieve the “expert” level achievement in their domain.
-
-Each appointed Steward will see his Ape listed in the Maester\`s annals. Along with the listing, date of initiation, and date of resignation, the backstory of the Ape will be written and linked in the annals. Along with the Apes name, the discord or twitter handle of the person behind the Ape will also be listed as a merit.
-
-### **Compensation**
-
-Members of the stewardship are not paid a salary while the project is underway. They can fulfil bounties, but those must be evaluated by the other stewards. If the project is successful, and if there are any funds that remain in the Amphitheatre wallet, there can be a vote by the TAS community or the certificate holders to determine if and how much $SOCIETY stewards will be paid.
+As of this moment, a recipient must hold an Ape Society ape to receive the “Special” certificates that are outlined in this document.
 
 ## **Rewards Structure**
 
