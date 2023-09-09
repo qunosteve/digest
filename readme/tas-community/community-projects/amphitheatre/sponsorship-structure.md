@@ -1,4 +1,4 @@
-# Sponsorship Structure
+# Gear, Blueprints & Sponsorships
 
 Sponsorships go to [**$amphitheatre**](https://cexplorer.io/address/addr1q8fwev2r3un65kzcf7e6qn3zwzkkwnhcag7snzljhltvmz8rs790wsvw4fuqga0c8ghfmq0h0l50pmmpwf0qffnlj5vqamvjsl) or [**$tasbounty**](https://cexplorer.io/address/addr1q8fwev2r3un65kzcf7e6qn3zwzkkwnhcag7snzljhltvmz8rs790wsvw4fuqga0c8ghfmq0h0l50pmmpwf0qffnlj5vqamvjsl)
 
@@ -8,33 +8,35 @@ To sustain the fervor of the Amphitheatre’s construction, the project needs to
 
 ## **Stewardship of the Amphitheatre**
 
-Stewards of the Amphitheatre (currently the Architect and the Maester, with future plans to appoint an Artisan, Maestro, and Inquisitor), who are authorized to issue certificates and bounty payouts from the Amphitheatre wallet, are merely charged with supervising the Amphitheatre’s assets and do not consider the assets their own. The stewardship’s mission is to act in the spirit and for the betterment of the Ape Society Community. Every transaction the stewardship makes (both incoming sponsorships and outgoing bounty payouts) will be logged in a transparent way for the community to audit as they wish. Stewards of the Amphitheatre are not authorized to spend the $SOCIETY earned for anything other than Bounties. If there are any outside purchases that need to be made to support the Amphitheatre (such as hosting hosts, metaverse plots, music licensing, etc), the Stewardship will submit proposals for the Ape Society DAO to vote on, and will use Amphitheatre funds when possible. Even though this is an independently funded project, the stewardship grants the TAS DAO authorization take action in protecting Apes by calling a vote to recover funds from the Amphitheatre wallet if the stewardship is deemed no longer fit to lead the project.
+Stewards of the Amphitheatre, who are authorized to commit bounty payouts from the Amphitheatre wallet, are merely charged with the stewardship of the Amphitheatre’s assets and do not consider the assets their own. The stewardship’s mission is to act in the spirit and for the betterment of the Ape Society Community. Although the Stewardship of the Amphitheatre seeks to maximize the utility and synergy with other TAS entities such as AF1 and the TAS DAO, in contrast to TAS DAO funded projects such as the Societas board game, the Amphitheatre has not been funded by the DAO and is its own independent, separate entity. \
+\
+Every outgoing SOCIETY transaction the stewardship makes (both incoming sponsorships and outgoing bounty payouts) is logged in a transparent way for the community to audit in the "outgoing-society" channel in Amphitheatre discord. To keep our promise to sponsors intact, Stewards of the Amphitheatre are not authorized to commit the Amphitheatre wallet's $SOCIETY for anything other than Bounties unless a governance motion is passed. In the Amphitheatre discord, stakeholders (verified builders and community sponsors) of the Amphitheatre have access to the "governance" channel. This is where motions are announced for approval. \
 
-**\*Roadmap Adjustment**
-
-In the rough “roadmap” of the Amphitheatre’s construction, posted in discord, phase 6 is considered the “Ape Enrichment” phase. The purpose of the Ape enrichment phase will allow for individual apes to “personalize” gear to their liking to be crafted and used in the Amphitheatre. This document details how the “Ape Enrichment” mechanics will be driven by the sponsorship structure as incentives and will most likely be prioritized sooner in the roadmap (around phase 4).
 
 ## **Gear and Crafting System**
 
 To grasp the magnitude of the Sponsor’s incentives, we must first define the Amphitheatre’s Gear and Crafting system.
 
-### **Crafting & Base Cost**
+### **Common Gear aka "Base Gear"**
 
-The Amphitheatre’s contestants will need gear to be effective in the arena. Gear will be crafted by craftsmen. The base crafting cost that all blueprinted crafting is derived from is is 750 $SOCIETY. This crafting cost increases as apes opt to use more advanced blueprints as they have to pay royalties to the blueprint owners (sponsors). It is important to note that these costs **will** **not** by default decrease over time as the supply of SOCIETY decreases, as blueprint royalty income is directly linked to a sponsor’s static monetary donation to fund the construction of the Amphitheatre. Decreasing their royalty payouts over time will de-incentivize sponsors from contributing. Keep this in mind when devising your crafting strategy going forward as you stockpile SOCIETY in preparation for the Amphitheatre.
+The Amphitheatre’s contenders will need gear to be effective in the arena. Comm Gear, aka "Base Gear" is gear that is inspired by the Ape Society PFP artwork. Future plans will allow apes with specific weapon or armor traits to inherit that piece of gear in their inventory for the option to equip. Common gear will also be available to craft for most gear slots. Common gear will not be associated with any donor’s blueprints. Common gear will have no bonus to combat effectiveness, this gear will be merely used to give contenders the "bare minimum" to give them a chance in the arena.&#x20;
 
-### **Common Gear**
+### **Blueprint & Base Usage Cost**
 
-Common gear will be the very inexpensive to craft. Common gear will be available to craft for every gear slot and will not be associated with any donor’s blueprints. Common gear will have 25% combat effectiveness and common gear is currently planned to be a consumable (token burned after use) in the Amphitheatre.
+Gear will be crafted by craftsmen. The base crafting cost that all blueprinted gear will be derived from is the base cost of 750 $SOCIETY. As apes opt to use more advanced blueprints that will guarantee them access to higher performance gear, the cost of using those more advanced blueprints increases (outlined in[#individual-sponsorship-incentives](sponsorship-structure.md#individual-sponsorship-incentives "mention")) to pay royalties to the blueprint owners (sponsors). It is important to note that these costs **will** **not** by default decrease over time as the supply of SOCIETY decreases, as blueprint royalty income is directly linked to a sponsor’s static monetary donation to fund the construction of the Amphitheatre. Decreasing their royalty payouts over time will de-incentivize sponsors from contributing. Keep this in mind when devising your crafting strategy going forward as you stockpile SOCIETY in preparation for the Amphitheatre.
+
+###
 
 ### **Personalized Blueprinted Gear**
 
-As we find a balance for the gear stats, we will start to implement the buildout of sponsor-backed blueprint-driven craftable gear in Phase 4. These blueprint designs can ONLY be unlocked by Sponsors and will cost $SOCIETY to craft. All Blueprints will have a chance of crafting “higher tier” variants of that desired gear style with higher combat effectiveness. Gear crafted with this system is persistent and these tokens will not be burned when equipped in the Amphitheatre. Blueprinted gear will follow this weapon effectiveness tier model:
+As we find a balance for the gear stats, we will start to implement the buildout of sponsor-unlocked blueprint derived craftable (mintable) gear in Phase 4. These blueprint designs can ONLY be unlocked by Sponsors and will cost $SOCIETY to craft. All Blueprints will have a chance of crafting “higher tier” variants of that desired gear style with higher combat effectiveness. Gear crafted with this system is persistent and these tokens will not be burned when equipped in the Amphitheatre. Blueprinted gear will follow this weapon effectiveness tier model:
 
-* Honoured Gear - 25% weapon effectiveness
-* Exalted Gear – 50% weapon effectiveness
-* Majestic Gear – 75% weapon effectiveness
-* Supreme Gear – 100% weapon effectiveness
-* Heroic Gear – 100% weapon effectiveness + Ape perk
+* Common (Base) Gear - +0 bonus weapon effectiveness
+* Honoured Gear - +5 weapon effectiveness
+* Exalted Gear – +10 weapon effectiveness
+* Majestic Gear – +15 sponsor points contributed toward weapon effectiveness
+* Supreme Gear – +20 points contributed toward weapon effectiveness
+* Heroic Gear – +100% weapon effectiveness + Ape perk
 
 ### **Heroic Gear**
 

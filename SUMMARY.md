@@ -83,7 +83,7 @@
         * [Amphitheatre](readme/tas-community/community-projects/amphitheatre/README.md)
           * [Original Proposal](readme/tas-community/community-projects/amphitheatre/original-proposal.md)
           * [Construction Plan](readme/tas-community/community-projects/amphitheatre/construction-plan.md)
-          * [Sponsorship Structure](readme/tas-community/community-projects/amphitheatre/sponsorship-structure.md)
+          * [Gear, Blueprints & Sponsorships](readme/tas-community/community-projects/amphitheatre/sponsorship-structure.md)
           * [Bounty Structure](readme/tas-community/community-projects/amphitheatre/bounty-structure.md)
           * [Blueprint Token](readme/tas-community/community-projects/amphitheatre/blueprint-token.md)
           * [Expeditions (Cross Project Collabs)](readme/tas-community/community-projects/amphitheatre/expeditions-cross-project-collabs.md)
