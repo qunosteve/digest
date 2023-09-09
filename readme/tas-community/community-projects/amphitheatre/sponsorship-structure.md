@@ -6,13 +6,6 @@ Sponsorships go to [**$amphitheatre**](https://cexplorer.io/address/addr1q8fwev2
 
 To sustain the fervor of the Amphitheatre’s construction, the project needs to attract sufficient funding from donors so builders can be compensated for the operating costs of building and testing the amphitheatre. However, without a proper incentivized structure for the donors, they will not be motivated to contribute. This document details the solution to this sponsorship’s dilemma by providing lore and utility to that sponsor’s ape as appreciation for their gracious donations.
 
-## **Stewardship of the Amphitheatre**
-
-Stewards of the Amphitheatre, who are authorized to commit bounty payouts from the Amphitheatre wallet, are merely charged with the stewardship of the Amphitheatre’s assets and do not consider the assets their own. The stewardship’s mission is to act in the spirit and for the betterment of the Ape Society Community. Although the Stewardship of the Amphitheatre seeks to maximize the utility and synergy with other TAS entities such as AF1 and the TAS DAO, in contrast to TAS DAO funded projects such as the Societas board game, the Amphitheatre has not been funded by the DAO and is its own independent, separate entity. \
-\
-Every outgoing SOCIETY transaction the stewardship makes (both incoming sponsorships and outgoing bounty payouts) is logged in a transparent way for the community to audit in the "outgoing-society" channel in Amphitheatre discord. To keep our promise to sponsors intact, Stewards of the Amphitheatre are not authorized to commit the Amphitheatre wallet's $SOCIETY for anything other than Bounties unless a governance motion is passed. In the Amphitheatre discord, stakeholders (verified builders and community sponsors) of the Amphitheatre have access to the "governance" channel. This is where motions are announced for approval. \
-
-
 ## **Gear and Crafting System**
 
 To grasp the magnitude of the Sponsor’s incentives, we must first define the Amphitheatre’s Gear and Crafting system.
