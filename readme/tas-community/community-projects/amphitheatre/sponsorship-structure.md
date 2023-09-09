@@ -1,4 +1,4 @@
-# Gear, Blueprints & Sponsorships
+# Gear, Blueprints & Sponsorship Structure
 
 Sponsorships go to [**$amphitheatre**](https://cexplorer.io/address/addr1q8fwev2r3un65kzcf7e6qn3zwzkkwnhcag7snzljhltvmz8rs790wsvw4fuqga0c8ghfmq0h0l50pmmpwf0qffnlj5vqamvjsl) or [**$tasbounty**](https://cexplorer.io/address/addr1q8fwev2r3un65kzcf7e6qn3zwzkkwnhcag7snzljhltvmz8rs790wsvw4fuqga0c8ghfmq0h0l50pmmpwf0qffnlj5vqamvjsl)
 
@@ -19,42 +19,68 @@ To grasp the magnitude of the Sponsor’s incentives, we must first define the A
 
 ### **Common Gear aka "Base Gear"**
 
-The Amphitheatre’s contenders will need gear to be effective in the arena. Comm Gear, aka "Base Gear" is gear that is inspired by the Ape Society PFP artwork. Future plans will allow apes with specific weapon or armor traits to inherit that piece of gear in their inventory for the option to equip. Common gear will also be available to craft for most gear slots. Common gear will not be associated with any donor’s blueprints. Common gear will have no bonus to combat effectiveness, this gear will be merely used to give contenders the "bare minimum" to give them a chance in the arena.&#x20;
+The Amphitheatre’s contenders will need gear to be effective in the arena. Common Gear, aka "Base Gear" is gear that is inspired by the Ape Society Profile Pic traits. Future plans will allow apes with specific weapon or armor traits to inherit that piece of gear in their inventory with the option to equip in their loadout. Common gear will also be available to craft for most gear slots. Common gear will not be associated with any sponsor's blueprints. Common gear will have no bonus to combat effectiveness, this gear is merely intended to give contenders the "bare minimum" to give them a chance in the arena.&#x20;
 
-### **Blueprint & Base Usage Cost**
+### **Blueprinted Gear**&#x20;
 
-Gear will be crafted by craftsmen. The base crafting cost that all blueprinted gear will be derived from is the base cost of 750 $SOCIETY. As apes opt to use more advanced blueprints that will guarantee them access to higher performance gear, the cost of using those more advanced blueprints increases (outlined in[#individual-sponsorship-incentives](sponsorship-structure.md#individual-sponsorship-incentives "mention")) to pay royalties to the blueprint owners (sponsors). It is important to note that these costs **will** **not** by default decrease over time as the supply of SOCIETY decreases, as blueprint royalty income is directly linked to a sponsor’s static monetary donation to fund the construction of the Amphitheatre. Decreasing their royalty payouts over time will de-incentivize sponsors from contributing. Keep this in mind when devising your crafting strategy going forward as you stockpile SOCIETY in preparation for the Amphitheatre.
+In Phase 4, we will start to implement the rollout of blueprinted gear. Blueprint designs can ONLY be unlocked by Sponsors and in order for crafters to gain access to a specific design, they will have to indirectly pay royalties to the blueprint owner via the Amphitheatre's crafting mechanism. Blueprinted gear will follow this weapon effectiveness tier model:
 
-###
+* Common (Base) - +0 bonus points towards gear effectiveness
+* Honoured - +5 bonus points towards gear effectiveness
+* Exalted – +10 bonus points towards gear effectiveness
+* Majestic – +15 bonus points towards gear effectiveness
+* Supreme – +20 bonus points towards gear effectiveness
+* Heroic – +20 bonus points towards gear effectiveness + Additional future perks\
 
-### **Personalized Blueprinted Gear**
 
-As we find a balance for the gear stats, we will start to implement the buildout of sponsor-unlocked blueprint derived craftable (mintable) gear in Phase 4. These blueprint designs can ONLY be unlocked by Sponsors and will cost $SOCIETY to craft. All Blueprints will have a chance of crafting “higher tier” variants of that desired gear style with higher combat effectiveness. Gear crafted with this system is persistent and these tokens will not be burned when equipped in the Amphitheatre. Blueprinted gear will follow this weapon effectiveness tier model:
+Example Majestic variant of "The Butcher's Oath" blueprinted weapon, which is based on the Majestic Blueprint design unlocked by Carver 'de Medici:
 
-* Common (Base) Gear - +0 bonus weapon effectiveness
-* Honoured Gear - +5 weapon effectiveness
-* Exalted Gear – +10 weapon effectiveness
-* Majestic Gear – +15 sponsor points contributed toward weapon effectiveness
-* Supreme Gear – +20 points contributed toward weapon effectiveness
-* Heroic Gear – +100% weapon effectiveness + Ape perk
+<figure><img src="../../../../.gitbook/assets/carvers_cleaver_anim_rotation_withBackground.gif" alt=""><figcaption></figcaption></figure>
+
+### **Blueprint Crafting (Minting) Mechanics and Usage Costs**
+
+As apes opt to use more advanced blueprints, higher tier blueprints will guarantee them access to higher performance gear; however, higher tier blueprints command a higher royalty fee as well. Basically, higher blueprint cost = higher guaranteed weapon effectiveness. There will always be a chance for ANY blueprint to generate a Supreme or even Heroic tier variant, but using higher tier blueprints increases the likelihood. See [#individual-sponsorship-incentives](sponsorship-structure.md#individual-sponsorship-incentives "mention") for probabilities.\
+\
+The base crafting cost that all blueprint gear will be derived from is 750 $SOCIETY. This base cost goes back to the Amphitheatre team. Any amount over the base cost of 750 society is given to the blueprint holder as royalties. \
+\
+There are a few reasons for the "base cost" of 750 SOCIETY:
+
+1. Mitigate Blueprint Sponsor "Duping" - In the context of video games, "Duping" is a term that refers to a practice where players exploit a game's mechanics to create duplicate copies of in-game items, currency, or other valuable resources. These duplicates can then be used or traded, giving the player an unfair advantage or disrupting the game's economy. By redirecting a portion of blueprint usage fees away from the blueprint sponsor, it discourages and mitigates the likelihood of this behavior by that sponsor.\
+
+2. Operating Costs and Stimulus. As we get close to stimulating the Amphitheatre's steady growth and scaling up our infrastructure for community adoption, we'll need to make sure we have adequate funding to cover the operating costs of web, marketing, game server, and potentially storage infrastructure environment. We want to make sure Amphitheatre gets an adequate runway before it's fully sustained by the community.
+
+It's essential to emphasize that these costs are not expected to diminish over time, even as the circulating supply of SOCIETY decreases. This is due to the direct correlation between blueprint royalties and a sponsor's initial contribution to support Amphitheatre construction. Lowering royalty payouts as time progresses could discourage sponsors from contributing. Please consider this aspect when formulating your crafting strategy, especially as you accumulate SOCIETY in preparation for the Amphitheatre.
+
+The only scenario in which blueprint usage costs could decrease is if sponsors are reimbursed in proportion to the reduction in blueprint usage costs. For instance, if a sponsor originally donated 1 million SOCIETY and we subsequently reduce blueprint usage costs by 33.3%, to honor the commitment made to that sponsor at the time of their donation, they would require 333,000 SOCIETY as compensation.
+
+
 
 ### **Heroic Gear**
 
-Heroic gear will have the same “combat effectiveness” as Supreme gear, **plus** will give bonuses to the ape wo wields that item (think running spead, health, etc). All sponsor’s blueprints **will** have a chance to craft a heroic version of that item (outlined later in this document). Due to its extremely rare chance to craft, the pursuit to make a heroic item can prove to be a monumentally expensive task and will be an extremely rare sight to behold in the arena.
+Heroic gear is the top tier variant of Blueprinted Gear. Heroic gear will have the same “combat effectiveness” as Supreme gear, **plus** will give future (currently undisclosed) bonuses to the ape wielding that piece of gear.&#x20;
+
+
 
 ### **Recently Uncovered Legendary Gear Stories**
 
-Upon some recent discoveries, Grand Maester Esmond Mars has deeply researched various excerpts of folklore alluding to gear that was once lost. These [stories](backstories/maesters-legendary-gear-stories/) serve as inspiration for prospective sponsors as they usher in their own blueprinted gear. And who knows, maybe one day some of these items might turn up.
+Upon some recent discoveries, Grand Maester Esmond Mars has deeply researched various excerpts of folklore alluding to blueprints that were once lost. These [stories](backstories/maesters-legendary-gear-stories/) serve as inspiration for prospective sponsors as they usher in their own blueprinted gear. And who knows, maybe one day some of these items might turn up.
+
+
 
 ### **Mythical Gear and Expeditions**
 
-Aside from the expensive crusade of crafting a legendary item, there are whispers of Explorers returning from distant expeditions who have reported sightings of potential mythical item sets in their travels. As the construction of the Amphitheatre progresses, Grand Architect Beltran White will coordinate with other realms outside of the Ape Society to sponsor Expeditions for explorers to travel to these lands for a chance to find these mythical items. See [Expeditions ](expeditions-cross-project-collabs.md)for more detail.&#x20;
+In addition to the passionate efforts of our community members who are busy crafting items, intriguing reports have surfaced from intrepid Explorers returning from their distant expeditions. These adventurers claim to have witnessed the existence of enigmatic and potentially legendary item sets during their travels.
+
+As the construction of the Amphitheatre advances, Grand Architect Beltran White will collaborate with realms beyond the Ape Society's borders to facilitate Expeditions. These journeys will grant explorers the remarkable opportunity to venture into uncharted lands, in pursuit of these elusive mythical items. For further information, please refer to the Expeditions section.\
+
 
 ### **Balance**
 
-We do not want the Amphitheatre to turn into a “pay to win” environment. We want contestants with high tier gear to have access to higher damage, armor, precision, and mobility; however, don’t want to leave contestants without the high tier gear with zero chances of winning. During phases 3 and 4, there will be extensive testing done to find the right balance of increased weapon stats and fair play. There will also be efforts to establish opportunities for skilled players to "work their way up" if they're low on capital.
+We do not want the Amphitheatre to turn into a “pay to win” environment. We want contestants with high tier gear to have access to higher damage, armor, precision, and mobility; however, we don’t want to leave contenders without high tier gear with zero chances of winning. During phases 3 and 4, there will be extensive testing done to find the right balance of increased weapon stats and fair play. There will also be efforts to establish opportunities for skilled players to advance even if they find themselves with limited capital but possess a surplus of time and dedication.
 
-## **Sponsorship Tiers**
+
+
+## **Sponsorships (How to Unlock your own Blueprint)**
 
 **Destination Wallet Address**
 
