@@ -8,7 +8,7 @@ Building the Amphitheatre landmark will require the collective effort and teamwo
 
 The primary mission of The Amphitheatre Builder’s Bounty Program is to honor and reward the dedicated community members of the Ape Society who contribute to building the Amphitheatre landmark. The primary method of reward will be the issuance of “certificates” that will serve as immutable, on-chain “proof” that a person has contributed the project and how. These certificates will introduce a novel way for a person to showcase their skills in a web3 world. The use case will be more apparent when Ape Society cabins are released where you can frame your non fungible tokens on display inside of Cabin picture frames.
 
-Implementing a method to reimburse the participants’ operating costs will help in supporting the sustainability and talent retention of the project. To achieve this, some bounties in this program will award recipients with $SOCIETY token, the Ape Society’s ecosystem utility token. Operating costs could include but are not limited to: internet service provider data usage, computer software and hardware costs, education and training costs, blockchain transaction fee costs when testing, book and media (writers’ inspiration) rental costs, and/or rising energy costs when undergoing heavy 3d rendering of assets. At time of this writing, the amount of $SOCIETY issued for each bounty has been calibrated to avoid unreasonably exorbitant payouts at its current value, while also giving enough cushion to absorb the price volatility of the token and the fees incurred while transferring tokens.
+Implementing a method to reimburse the participants’ operating costs will help in supporting the sustainability and talent retention of the project. To achieve this, some bounties in this program will award recipients with $SOC token, the Ape Society’s ecosystem utility token. Operating costs could include but are not limited to: internet service provider data usage, computer software and hardware costs, education and training costs, blockchain transaction fee costs when testing, book and media (writers’ inspiration) rental costs, and/or rising energy costs when undergoing heavy 3d rendering of assets. At time of this writing, the amount of $SOC issued for each bounty has been calibrated to avoid unreasonably exorbitant payouts at its current value, while also giving enough cushion to absorb the price volatility of the token and the fees incurred while transferring tokens.
 
 ## **Disclaimer**
 
@@ -16,7 +16,7 @@ This project makes no representations regarding the tax consequences of the paym
 
 ## **Bounty Prerequisites**
 
-To help encourage the understanding of the utility of the $SOCIETY token awarded in the bounties, the recipients of these bounties must demonstrate proof of ownership of an Ape Society asset. On bounty completion, the recipient will name the eligible asset they own, and the rewards/certificate will go to that asset.\
+To help encourage the understanding of the utility of the $SOC token awarded in the bounties, the recipients of these bounties must demonstrate proof of ownership of an Ape Society asset. On bounty completion, the recipient will name the eligible asset they own, and the rewards/certificate will go to that asset.\
 \
 If the contributor of the bounty cannot afford/does not own one of these assets, they can coordinate with an Ape Society community member as a "proxy" to fulfill the bounty. The certificates/rewards will go to that Ape holder and anything beyond that (how the rewards are distributed) will have be worked out between the proxy and the contributor.&#x20;
 
@@ -55,7 +55,7 @@ For each bounty completed, TAS Apes can chose to earn Mercenary rewards or Domai
 
 Upon the completion of a Bounty, a Cabin, Ape, or COTAS owner can choose to be rewarded with the following. This reward is sent to a recipient’s wallet where that asset resides:
 
-* 1000 $SOCIETY.
+* 1000 $SOC.
 
 ### **Domain-specific Rewards**
 
@@ -78,7 +78,7 @@ If an ape chooses the domain-specific reward, they start at the Recruit level. F
 If an ape completes a bounty, has graduated from that domain’s recruit level, and chooses that domain’s specific reward, they will receive the following rewards:
 
 * Veteran Level Certificate with their Ape’s Name
-* Their selection of 1 form of compensation (per veteran certificate): 2000 $SOCIETY or 2500 Blueprint Tokens
+* Their selection of 1 form of compensation (per veteran certificate): 2000 $SOC or 2500 Blueprint Tokens
 * After an ape Acquires 20 Veteran Level Certificates in a domain, an Ape earns the privilege to begin earning “Expert” level rewards in that domain. In addition, to celebrate that Ape’s promotion, the Grand Architect will use Amphitheatre funds to craft an item of the promotee’s choice of up to a Majestic level blueprint (when crafting becomes operational) as a promotion gift.
 
 ### **Experts**
@@ -86,27 +86,27 @@ If an ape completes a bounty, has graduated from that domain’s recruit level, 
 If an ape completes a bounty, has been promoted from that domain’s veteran level, and chooses that domain’s specific reward, they will receive the following rewards:
 
 * Expert Level Certificate with their Ape’s Name
-* Their selection of 1 form of compensation (per expert certificate): 3000 $SOCIETY Or 4000 Blueprint Token
+* Their selection of 1 form of compensation (per expert certificate): 3000 $SOC Or 4000 Blueprint Token
 * After an ape Acquires 1 expert level certificate in a domain, an Ape earns the privilege to invoke an election for that domain’s stewardship seat.
 
 ### **Teamwork**
 
-Apes can form teams of up to 3 to complete a bounty. Each ape will receive their desired certificate, but $SOCIETY payouts will be split in proportion to how many team members participate. For example, 2 veterans and an expert complete a bounty. They all get a certificate, but the veterans only earn 667 $SOCIETY each and the expert only earns 1000 $SOCIETY.
+Apes can form teams of up to 3 to complete a bounty. Each ape will receive their desired certificate, but $SOC payouts will be split in proportion to how many team members participate. For example, 2 veterans and an expert complete a bounty. They all get a certificate, but the veterans only earn 667 $SOC each and the expert only earns 1000 $SOC.
 
-\*Due to the complexity of keeping track of blueprint credit, bounties issued to more than 1 ape will not count towards blueprint credit. For bounties issued to more than one Ape, the $SOCIETY payouts must be chosen.
+\*Due to the complexity of keeping track of blueprint credit, bounties issued to more than 1 ape will not count towards blueprint credit. For bounties issued to more than one Ape, the $SOC payouts must be chosen.
 
 ### **Conservation**
 
-After the sponsorships from the family competitions start to trickle in and we gain some certainty on how much $SOCIETY will be raised, we will do some mathematical projections and establish the conditions for the Stages below. This staged mechanism is inspired by water conservation management techniques in parts of the world where water supply is low.
+After the sponsorships from the family competitions start to trickle in and we gain some certainty on how much $SOC will be raised, we will do some mathematical projections and establish the conditions for the Stages below. This staged mechanism is inspired by water conservation management techniques in parts of the world where water supply is low.
 
 * Stage 0 Budget (Amphitheatre wallet has over X amount of Society) – All bounties paid at the base rate. All blueprint credit earned at the base rate.
 * Stage 1 Budget (Amphitheatre wallet has under X amount of Society) – All bounties paid at 50% of the base rate. All blueprint credit earned at 150% base rate.
 * Stage 2 Budget (Amphitheatre wallet has under half of X amount of Society) – All bounties pay 25% of the base rate. All blueprint credit earned at 200% base rate.
-* Stage 3 Budget (if we’re broke) – No $SOCIETY left to pay. All blueprint credit earned at 250% base rate.
+* Stage 3 Budget (if we’re broke) – No $SOC left to pay. All blueprint credit earned at 250% base rate.
 
-To help reduce the saturation of too many blueprints from the credit system, Apes who earn bounties can only choose 1 blueprint to “progress” per Ape’s name until a Supreme blueprint is reached. Please see the sponsor’s incentivization structure document to view the amount of SOCIETY it takes to unlock each blueprint tier.
+To help reduce the saturation of too many blueprints from the credit system, Apes who earn bounties can only choose 1 blueprint to “progress” per Ape’s name until a Supreme blueprint is reached. Please see the sponsor’s incentivization structure document to view the amount of SOC it takes to unlock each blueprint tier.
 
-We will peg our $SOCIETY payouts to the price fluctuations of frames as time goes on and AF1 adjusts. For example, if frames decrease in cost from 750 to 500 (33%), a 2000 payout will decrease to 1333.
+We will peg our $SOC payouts to the price fluctuations of frames as time goes on and AF1 adjusts. For example, if frames decrease in cost from 750 to 500 (33%), a 2000 payout will decrease to 1333.
 
 ## **Artisan’s Guild**
 
