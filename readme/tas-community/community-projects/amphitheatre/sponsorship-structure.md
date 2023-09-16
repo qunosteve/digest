@@ -34,17 +34,17 @@ Example Majestic variant of "The Butcher's Oath" blueprinted weapon, which is ba
 
 As apes opt to use more advanced blueprints, higher tier blueprints will guarantee them access to higher performance gear; however, higher tier blueprints command a higher royalty fee as well. Basically, higher blueprint cost = higher guaranteed weapon effectiveness. There will always be a chance for ANY blueprint to generate a Supreme or even Heroic tier variant, but using higher tier blueprints increases the likelihood. See [#individual-sponsorship-incentives](sponsorship-structure.md#individual-sponsorship-incentives "mention") for probabilities.\
 \
-The base crafting cost that all blueprint gear will be derived from is 750 $SOCIETY. This base cost goes back to the Amphitheatre team. Any amount over the base cost of 750 society is given to the blueprint holder as royalties. \
+The base crafting cost that all blueprint gear will be derived from is 750 $SOC. This base cost goes back to the Amphitheatre team. Any amount over the base cost of 750 $SOC is given to the blueprint holder as royalties. \
 \
-There are a few reasons for the "base cost" of 750 SOCIETY:
+There are a few reasons for the "base cost" of 750 $SOC:
 
 1. Mitigate Blueprint Sponsor "Duping" - In the context of video games, "Duping" is a term that refers to a practice where players exploit a game's mechanics to create duplicate copies of in-game items, currency, or other valuable resources. These duplicates can then be used or traded, giving the player an unfair advantage or disrupting the game's economy. By redirecting a portion of blueprint usage fees away from the blueprint sponsor, it discourages and mitigates the likelihood of this behavior by that sponsor.\
 
 2. Operating Costs and Stimulus. As we get close to stimulating the Amphitheatre's steady growth and scaling up our infrastructure for community adoption, we'll need to make sure we have adequate funding to cover the operating costs of web, marketing, game server, and potentially storage infrastructure environment. We want to make sure Amphitheatre gets an adequate runway before it's fully sustained by the community.
 
-It's essential to emphasize that these costs are not expected to diminish over time, even as the circulating supply of SOCIETY decreases. This is due to the direct correlation between blueprint royalties and a sponsor's initial contribution to support Amphitheatre construction. Lowering royalty payouts as time progresses could discourage sponsors from contributing. Please consider this aspect when formulating your crafting strategy, especially as you accumulate SOCIETY in preparation for the Amphitheatre.
+It's essential to emphasize that these costs are not expected to diminish over time, even as the circulating supply of $SOC decreases. This is due to the direct correlation between blueprint royalties and a sponsor's initial contribution to support Amphitheatre construction. Lowering royalty payouts as time progresses could discourage sponsors from contributing. Please consider this aspect when formulating your crafting strategy, especially as you accumulate $SOC in preparation for the Amphitheatre.
 
-The only scenario in which blueprint usage costs could decrease is if sponsors are reimbursed in proportion to the reduction in blueprint usage costs. For instance, if a sponsor originally donated 1 million SOCIETY and we subsequently reduce blueprint usage costs by 33.3%, to honor the commitment made to that sponsor at the time of their donation, they would require 333,000 SOCIETY as compensation.
+The only scenario in which blueprint usage costs could decrease is if sponsors are reimbursed in proportion to the reduction in blueprint usage costs. For instance, if a sponsor originally donated 1 million $SOC and we subsequently reduce blueprint usage costs by 33.3%, to honor the commitment made to that sponsor at the time of their donation, they would require 333,000 $SOC as compensation.
 
 
 
@@ -75,7 +75,7 @@ We do not want the Amphitheatre to turn into a “pay to win” environment. We 
 
 ### **Secondary Market Trading**
 
-Amphitheatre gear can be traded on the secondary market. We will setup a structure almost identical to the Ape Society Market where only SOCIETY can be used to buy/sell Amphitheatre gear.
+Amphitheatre gear can be traded on the secondary market. We will setup a structure almost identical to the Ape Society Market where only $SOC can be used to buy/sell Amphitheatre gear.
 
 
 
@@ -118,10 +118,10 @@ Additionally, it's crucial to debunk a common misconception: the ownership of a 
 
 There are 4 tiers of sponsorships. Here are the requirements to unlock them:
 
-* Honoured Merchant's Sponsorship – 10k $SOCIETY or Blueprint Token donation
-* Exalted Consult's Sponsorship – 50k $SOCIETY or Blueprint Token donation
-* Majestic Noble's Sponsorship – 250k $SOCIETY or Blueprint Token donation
-* Supreme Ruler's Sponsorship – 1mil $SOCIETY or Blueprint Token donation
+* Honoured Merchant's Sponsorship – 10k $SOC or Blueprint Token donation
+* Exalted Consult's Sponsorship – 50k $SOC or Blueprint Token donation
+* Majestic Noble's Sponsorship – 250k $SOC or Blueprint Token donation
+* Supreme Ruler's Sponsorship – 1mil $SOC or Blueprint Token donation
 
 Once a donation is submitted, to authenticate their donation, donors will need to provide these pieces of information to the Amphitheatre team (via the [authenticate-donations-here](https://discord.com/channels/1008361097553776743/1018579830272438292) channel within the Amphitheatre discord):
 
@@ -142,7 +142,7 @@ Sponsorship Certificate holders will unlock both utility AND will be honored by 
 
 ### **Royalties from Crafting (All Sponsor Tiers)** <a href="#sponsors-blueprints" id="sponsors-blueprints"></a>
 
-Craftsmen can choose to craft common gear or personalized gear via the blueprints system. When they craft personalized gear, the $SOCIETY spent during each craft **beyond** the base rate goes to the sponsor of personalized gear as perpetual passive income to the sponsor. There will be 4 tiers of provisions:
+Craftsmen can choose to craft common gear or personalized gear via the blueprints system. When they craft personalized gear, the $SOC spent during each craft **beyond** the base rate goes to the sponsor of personalized gear as perpetual passive income to the sponsor. There will be 4 tiers of provisions:
 
 ### **Honoured Merchant's Sponsorship**
 
@@ -150,7 +150,7 @@ Craftsmen can choose to craft common gear or personalized gear via the blueprint
 
 By unlocking a “Honoured Merchant’s Sponsorship”, the sponsor earns the right to name a gear piece (pieces defined in gear section) in honor of the sponsor. This will unlock a bounty for 3d artists to design in phase 4. This piece will serve as a “blueprint” for craftsmen to craft.
 
-Honoured Gear “Blueprints” cost **1.5x** the base rate (**1125** $SOCIETY) to craft (**33%** goes to the sponsor as royalties every time this item is crafted), and the probability of crafting higher tier at this level is provided here:
+Honoured Gear “Blueprints” cost **1.5x** the base rate (**1125** $SOC) to craft (**33%** goes to the sponsor as royalties every time this item is crafted), and the probability of crafting higher tier at this level is provided here:
 
 * **64.9% chance of crafting Honoured Gear**
 * **20% chance of crafting Exalted Gear**
@@ -171,7 +171,7 @@ Maester of the Amphitheatre would like to honor the sponsors with lore outputs a
 
 By unlocking a “Exalted Consult’s Sponsorship”, the sponsor earns the right to name a gear piece (pieces defined in gear section) in honor of the sponsor. This will unlock a bounty for 3d artists to design in phase 4. This piece will serve as a “blueprint” for craftsmen to craft.
 
-Exalted Gear “Blueprints” cost **2.5x** the base rate (**1875** $SOCIETY) to craft (**60%** goes to the sponsor as royalties every time this item is crafted), and the probability of crafting higher tier at this level is provided here:
+Exalted Gear “Blueprints” cost **2.5x** the base rate (**1875** $SOC) to craft (**60%** goes to the sponsor as royalties every time this item is crafted), and the probability of crafting higher tier at this level is provided here:
 
 * **69.7% chance of crafting Exalted Gear**
 * **20% chance of crafting Majestic Gear**
@@ -192,7 +192,7 @@ Maester of the Amphitheatre would like to honor the sponsors with lore outputs a
 
 By unlocking a “Majestic Noble’s Sponsorship”, the sponsor earns the right to name a gear piece (pieces defined in gear section) in honor of the sponsor. This will unlock a bounty for 3d artists to design in phase 4. This piece will serve as a “blueprint” for craftsmen to craft.
 
-Majestic Gear “Blueprints” cost **5x** the base rate (**3750** $SOCIETY) to craft (**80%** goes to the sponsor as royalties every time this item is crafted), and the probability of crafting higher tier at this level is provided here:
+Majestic Gear “Blueprints” cost **5x** the base rate (**3750** $SOC) to craft (**80%** goes to the sponsor as royalties every time this item is crafted), and the probability of crafting higher tier at this level is provided here:
 
 * **79.1% chance of crafting Majestic Gear**
 * **20% chance of crafting Supreme Gear**
@@ -213,7 +213,7 @@ Maester of the Amphitheatre would like to honor the sponsors with lore outputs a
 
 By unlocking a “Supreme Ruler’s Sponsorship”, the sponsor earns the right to name a gear piece (pieces defined in gear section) in honor of the sponsor. This will unlock a bounty for 3d artists to design in phase 4. This piece will serve as a “blueprint” for craftsmen to craft.
 
-Supreme Gear “Blueprints” cost **10x** the base rate (**7500** $SOCIETY) to craft (**90%** goes to the sponsor as royalties every time this item is crafted), and the probability of crafting higher tier at this level is provided here:
+Supreme Gear “Blueprints” cost **10x** the base rate (**7500** $SOC) to craft (**90%** goes to the sponsor as royalties every time this item is crafted), and the probability of crafting higher tier at this level is provided here:
 
 * **97.3% chance of crafting Supreme Gear**
 * **2.7% chance of crafting Heroic Gear**
@@ -254,10 +254,10 @@ To help reward the most devoted families that support the Amphitheatre, we’re 
 
 * This competition ends on the official completion of Phase 3!
 * The family who unlocks the highest tier donation in their class by the deadline wins.
-* Families must provide the TXIDs, amount of $SOCIETY, desired slot, and Family name of the donations in a message in the official [Family Competition](https://discord.com/channels/1008361097553776743/1036335464195567688) discord channel in the Amphitheatre Discord for authentication and tally of donations.
+* Families must provide the TXIDs, amount of $SOC, desired slot, and Family name of the donations in a message in the official [Family Competition](https://discord.com/channels/1008361097553776743/1036335464195567688) discord channel in the Amphitheatre Discord for authentication and tally of donations.
 * A family’s King or approved family member(s) must be involved in case their family’s donation is surpassed by another family of the same class. There will be no refunds if a family is surpassed or if they get beat to the **Supreme** donation, so families must be strategic; however, as a consolation, that family will still retain the “individual perks/incentives” for their sponsorship.
 * The **FIRST** family who unlocks the **Supreme Ruler’s Sponsorship** for their class seals the win for their family. The transaction IDs provides a way to prove which donations come in first. In tight races, the families whos’ **Supreme** donations get validated in later blocks don’t win but still unlock their King’s individual perks. If competing families’ **Supreme** donations “tie” or fall **on the same block,** both families win the perk.
-* Donation transactions must be explicitly defined as a contribution to a family competition or to a non-competition individual sponsorship. If not explicitly defined, individual is assumed. Donations cannot be "double spent". For example, If 5 family members donate 10k SOCIETY, they either have to choose 1 Exalted sponsorship or 5 Honoured sponsorships, not both.
+* Donation transactions must be explicitly defined as a contribution to a family competition or to a non-competition individual sponsorship. If not explicitly defined, individual is assumed. Donations cannot be "double spent". For example, If 5 family members donate 10k $SOC, they either have to choose 1 Exalted sponsorship or 5 Honoured sponsorships, not both.
 
 ### **Class Perks**
 
@@ -317,7 +317,7 @@ There were a few **Early Sponsors** who supported the Amphitheatre before this d
 
 ### **The Chiesa Family**
 
-Before the sponsorship incentives were even a thought, **King** **Amilcar** **Chiesa** knew the Amphitheatre would be a huge boon to the Ape Society. King Chiesa was the first king who took a leap of faith in donating. He rallied his family to be the Amphitheatre’s very first donor of **79.62k** SOCIETY! To reward the Chiesa family for the first ever donation to the Amphitheatre, the Chiesa family has locked in a non-competitive perk of a **25%** rebate when renting the Chiesa shops.&#x20;
+Before the sponsorship incentives were even a thought, **King** **Amilcar** **Chiesa** knew the Amphitheatre would be a huge boon to the Ape Society. King Chiesa was the first king who took a leap of faith in donating. He rallied his family to be the Amphitheatre’s very first donor of **79.62k** $SOC! To reward the Chiesa family for the first ever donation to the Amphitheatre, the Chiesa family has locked in a non-competitive perk of a **25%** rebate when renting the Chiesa shops.&#x20;
 
 As the Amphitheatre’s first sponsor, recipients of the Sponsor’s line of certificates will be honoured by the signature of King Amilcar Chiesa.
 
@@ -333,7 +333,7 @@ Also, recipients of the Inquisitor’s line of certificates will be honoured by 
 
 ### **The White Family**
 
-Architect Beltran White was approached by his King, Radcliff White (aka the Naked king), to see where he could help with the Amphitheatre. After discussing how the Amphitheatre will entertain all members of the Cardano blockchain, King White has declared that the White family will be the distinguished hosts to welcome all into the Amphitheatre by donating **250k SOCIETY**. Architect Beltran White is overjoyed from the blessing shown by the leader of his family. To celebrate the White family’s early commitment to the Amphitheatre, King White and the White Family gain the following perks:
+Architect Beltran White was approached by his King, Radcliff White (aka the Naked king), to see where he could help with the Amphitheatre. After discussing how the Amphitheatre will entertain all members of the Cardano blockchain, King White has declared that the White family will be the distinguished hosts to welcome all into the Amphitheatre by donating **250k $SOC**. Architect Beltran White is overjoyed from the blessing shown by the leader of his family. To celebrate the White family’s early commitment to the Amphitheatre, King White and the White Family gain the following perks:
 
 * King White unlocks a **Majestic Noble’s Sponsorship**.
 * As distinguished hosts, the White family gets **50%** discount on Amphitheatre admissions for the Tournaments outlined in the Original Proposal.
