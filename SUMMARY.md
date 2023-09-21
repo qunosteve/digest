@@ -104,6 +104,7 @@
               * [Skull Piercing Silent Killer: Ventucci Superior Bolts](readme/tas-community/community-projects/amphitheatre/backstories/sponsors-backstories/skull-piercing-silent-killer-ventucci-superior-bolts.md)
               * [Two Ventuccis and a golden crossbow](readme/tas-community/community-projects/amphitheatre/backstories/sponsors-backstories/two-ventuccis-and-a-golden-crossbow.md)
               * [The Ventucci Bond](readme/tas-community/community-projects/amphitheatre/backstories/sponsors-backstories/the-ventucci-bond.md)
+              * [Jarman\`s Escape](readme/tas-community/community-projects/landmarks/amphitheatre/backstories/sponsors-backstories/jarman-s-escape.md)
             * [Sponsors' Gear Stories](readme/tas-community/community-projects/amphitheatre/backstories/sponsors-gear-stories/README.md)
               * [Chest Plate of Lightening Deception](readme/tas-community/community-projects/amphitheatre/backstories/sponsors-gear-stories/chest-plate-of-lightening-deception.md)
               * [Slick (Warhammer)](readme/tas-community/community-projects/amphitheatre/backstories/sponsors-gear-stories/slick-warhammer.md)
