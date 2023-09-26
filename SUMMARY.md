@@ -105,6 +105,7 @@
               * [Two Ventuccis and a golden crossbow](readme/tas-community/community-projects/amphitheatre/backstories/sponsors-backstories/two-ventuccis-and-a-golden-crossbow.md)
               * [The Ventucci Bond](readme/tas-community/community-projects/amphitheatre/backstories/sponsors-backstories/the-ventucci-bond.md)
               * [Jarman\`s Escape](readme/tas-community/community-projects/landmarks/amphitheatre/backstories/sponsors-backstories/jarman-s-escape.md)
+              * [Of Apes and Ambition: The Chiesa Family\`s Reign](readme/tas-community/community-projects/landmarks/amphitheatre/backstories/sponsors-backstories/of-apes-and-ambition-the-chiesa-family-s-reign.md)
             * [Sponsors' Gear Stories](readme/tas-community/community-projects/amphitheatre/backstories/sponsors-gear-stories/README.md)
               * [Chest Plate of Lightening Deception](readme/tas-community/community-projects/amphitheatre/backstories/sponsors-gear-stories/chest-plate-of-lightening-deception.md)
               * [Slick (Warhammer)](readme/tas-community/community-projects/amphitheatre/backstories/sponsors-gear-stories/slick-warhammer.md)
