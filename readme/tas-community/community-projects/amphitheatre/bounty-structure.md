@@ -70,7 +70,7 @@ Each domain (Artisan, Maestro, Inquisitor, and Maester) has their own independen
 If an ape chooses the domain-specific reward, they start at the Recruit level. For every bounty they complete at the recruit level here are the rewards:
 
 * Recruit Level Certificate with their Ape’s Name
-* 1000 Blueprint Tokens
+* 1000 Blueprint Tokens [blueprint-token.md](blueprint-token.md "mention")
 * After an ape Acquires 5 Recruit Level Certificates in a domain, an Ape earns the privilege to begin earning “Veteran” level rewards in that Domain. In addition, to celebrate that Ape’s graduation, the Grand Architect will use Amphitheatre funds to craft an item of the graduate’s choice of up to an Exalted level blueprint (when crafting becomes operational) as a graduation gift.
 
 ### **Veterans**
@@ -78,7 +78,7 @@ If an ape chooses the domain-specific reward, they start at the Recruit level. F
 If an ape completes a bounty, has graduated from that domain’s recruit level, and chooses that domain’s specific reward, they will receive the following rewards:
 
 * Veteran Level Certificate with their Ape’s Name
-* Their selection of 1 form of compensation (per veteran certificate): 2000 $SOC or 2500 Blueprint Tokens
+* Their selection of 1 form of compensation (per veteran certificate): 2000 $SOC or 2500 Blueprint Tokens [blueprint-token.md](blueprint-token.md "mention")
 * After an ape Acquires 20 Veteran Level Certificates in a domain, an Ape earns the privilege to begin earning “Expert” level rewards in that domain. In addition, to celebrate that Ape’s promotion, the Grand Architect will use Amphitheatre funds to craft an item of the promotee’s choice of up to a Majestic level blueprint (when crafting becomes operational) as a promotion gift.
 
 ### **Experts**
@@ -86,7 +86,7 @@ If an ape completes a bounty, has graduated from that domain’s recruit level, 
 If an ape completes a bounty, has been promoted from that domain’s veteran level, and chooses that domain’s specific reward, they will receive the following rewards:
 
 * Expert Level Certificate with their Ape’s Name
-* Their selection of 1 form of compensation (per expert certificate): 3000 $SOC Or 4000 Blueprint Token
+* Their selection of 1 form of compensation (per expert certificate): 3000 $SOC Or 4000 Blueprint Token [blueprint-token.md](blueprint-token.md "mention")
 * After an ape Acquires 1 expert level certificate in a domain, an Ape earns the privilege to invoke an election for that domain’s stewardship seat.
 
 ### **Teamwork**
@@ -184,13 +184,14 @@ In every Phase of the Amphitheatre’s construction there will be opportunity to
 * The Grand Architect will use Amphitheatre funds to craft an item of the Hero’s choice of up to a Supreme level blueprint (when crafting becomes operational) as a gift to the Hero.
 * A Hero earns the privilege to invoke an election for their certificate domain’s stewardship seat.
 
-### **Armourers**
+### **Polymath's Pursuit**
 
-Armourers will be the focal point of testing the Amphitheatre. Certificates and payouts are planned for Armourers after a soon to be determined tour of duty.
+A polymath is an individual who possesses a broad range of knowledge and expertise across multiple disciplines or fields of study. Polymaths are known for their ability to excel in diverse areas of intellectual and practical pursuits, often including the arts, sciences, humanities, and more. They are characterized by their capacity to integrate knowledge from various domains and apply it creatively to solve problems, make connections, and contribute to different areas of human endeavor. Polymaths are sometimes referred to as "universal geniuses" or "Renaissance people" because their intellectual versatility and curiosity resemble the accomplishments of prominent figures from the Renaissance period.
 
-### **Looking Forward**
+The Ape Society community is full of multitalented Apes. In the Amphitheatre, they will have an opportunity to reveal who they are. If an ape reaches "veteran" status in at least two disciplines, here are their awards:
 
-More Special certificates to come as needs arise.
+* Their Ape is awarded a "Polymath's Pursuit" certificate. This certificate designates the multitalented proficiency of the person completing bounties from multiple disciplines in the Amphitheatre.
+* They are awarded 5000 Blueprint Tokens.
 
 ## **Complimentary perks**
 
