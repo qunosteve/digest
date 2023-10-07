@@ -93,21 +93,6 @@ If an ape completes a bounty, has been promoted from that domain’s veteran lev
 
 Apes can form teams of up to 3 to complete a bounty. Each ape will receive their desired certificate, but $SOC payouts will be split in proportion to how many team members participate. For example, 2 veterans and an expert complete a bounty. They all get a certificate, but the veterans only earn 667 $SOC each and the expert only earns 1000 $SOC.
 
-\*Due to the complexity of keeping track of blueprint credit, bounties issued to more than 1 ape will not count towards blueprint credit. For bounties issued to more than one Ape, the $SOC payouts must be chosen.
-
-### **Conservation**
-
-After the sponsorships from the family competitions start to trickle in and we gain some certainty on how much $SOC will be raised, we will do some mathematical projections and establish the conditions for the Stages below. This staged mechanism is inspired by water conservation management techniques in parts of the world where water supply is low.
-
-* Stage 0 Budget (Amphitheatre wallet has over X amount of Society) – All bounties paid at the base rate. All blueprint credit earned at the base rate.
-* Stage 1 Budget (Amphitheatre wallet has under X amount of Society) – All bounties paid at 50% of the base rate. All blueprint credit earned at 150% base rate.
-* Stage 2 Budget (Amphitheatre wallet has under half of X amount of Society) – All bounties pay 25% of the base rate. All blueprint credit earned at 200% base rate.
-* Stage 3 Budget (if we’re broke) – No $SOC left to pay. All blueprint credit earned at 250% base rate.
-
-To help reduce the saturation of too many blueprints from the credit system, Apes who earn bounties can only choose 1 blueprint to “progress” per Ape’s name until a Supreme blueprint is reached. Please see the sponsor’s incentivization structure document to view the amount of SOC it takes to unlock each blueprint tier.
-
-We will peg our $SOC payouts to the price fluctuations of frames as time goes on and AF1 adjusts. For example, if frames decrease in cost from 750 to 500 (33%), a 2000 payout will decrease to 1333.
-
 ## **Artisan’s Guild**
 
 The Artisan’s Guild is the Domain that is responsible for the technical development of building the Amphitheatre. Certificates within this domain can be earned for the following disciplines:
