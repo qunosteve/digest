@@ -1,5 +1,5 @@
 ---
-cover: ../../../../.gitbook/assets/amphitheatre.png
+cover: ../../../../.gitbook/assets/amphi_banner_youtube.png
 coverY: 0
 ---
 
