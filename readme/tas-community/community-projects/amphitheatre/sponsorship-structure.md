@@ -252,7 +252,7 @@ To help reward the most devoted families that support the Amphitheatre, we’re 
 
 ### **Competition Mechanics**
 
-* This competition ends on the official completion of Phase 3!
+* This competition has now concluded.
 * The family who unlocks the highest tier donation in their class by the deadline wins.
 * Families must provide the TXIDs, amount of $SOC, desired slot, and Family name of the donations in a message in the official [Family Competition](https://discord.com/channels/1008361097553776743/1036335464195567688) discord channel in the Amphitheatre Discord for authentication and tally of donations.
 * A family’s King or approved family member(s) must be involved in case their family’s donation is surpassed by another family of the same class. There will be no refunds if a family is surpassed or if they get beat to the **Supreme** donation, so families must be strategic; however, as a consolation, that family will still retain the “individual perks/incentives” for their sponsorship.
